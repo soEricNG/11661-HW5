@@ -1,0 +1,4 @@
+By plotting the Zipf's law for all the 13 scripts, I got the following observations:
+
+Scripts 5, 8 and 10 don't follow the Zipf's law at all, and this can be our first inference regarding the scripts.
+All the other scripts tend to follow the Zipf's distribution, but we will need some other metric to verify the validity of the remaining 10 scripts.
