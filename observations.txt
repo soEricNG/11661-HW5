@@ -1,4 +1,14 @@
-By plotting the Zipf's law for all the 13 scripts, I got the following observations:
+Zipf's Law:
+
+By plotting the Zipf's law for all the 13 scripts, we get the following observations:
 
 Scripts 5, 8 and 10 don't follow the Zipf's law at all, and this can be our first inference regarding the scripts.
 All the other scripts tend to follow the Zipf's distribution, but we will need some other metric to verify the validity of the remaining 10 scripts.
+
+Type Token Ratio:
+
+By calculating the Zipf's Law for all the 13 scripts, we get the following observations:
+
+The average TTR for languages is ~20%. By analyzing the scripts given, the TTR for script 5 (TTR for Document 5: 0.9981936918160345), Script 8 (TTR for Document 8: 0.999213217938631) and Script 10 (TTR for Document 10: 0.9982658959537573) is extremely high. This reaffirms our observations in Zipf's law and it is likely that Document 5, 8 and 10 are not languages.
+
+Further, document 7 (TTR for Document 7: 0.8629905277401895) and document 9 (TTR for Document 9: 0.34825091370179756) also give high TTR scores and these documents need to be analyzed in more detail. 
