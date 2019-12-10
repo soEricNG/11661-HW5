@@ -12,3 +12,34 @@ By calculating the Zipf's Law for all the 13 scripts, we get the following obser
 The average TTR for languages is ~20%. By analyzing the scripts given, the TTR for script 5 (TTR for Document 5: 0.9981936918160345), Script 8 (TTR for Document 8: 0.999213217938631) and Script 10 (TTR for Document 10: 0.9982658959537573) is extremely high. This reaffirms our observations in Zipf's law and it is likely that Document 5, 8 and 10 are not languages.
 
 Further, document 7 (TTR for Document 7: 0.8629905277401895) and document 9 (TTR for Document 9: 0.34825091370179756) also give high TTR scores and these documents need to be analyzed in more detail. 
+
+Some observations regarding average number of concepts per sentence and average number of characters per word:
+average length of characters per concept for document1  2.1736507524649715
+average length of characters per concept for document2  3.9611144517939465
+average length of characters per concept for document3  1.0
+average length of characters per concept for document4  4.18796711509716
+average length of characters per concept for document5  4.00069473391691
+average length of characters per concept for document6  3.8950193794432812
+average length of characters per concept for document7  8.973443843031124
+average length of characters per concept for document8  4.000944138473643
+average length of characters per concept for document9  5.611620795107034
+average length of characters per concept for document10  4.003034682080925
+average length of characters per concept for document11  4.098774484131141
+average length of characters per concept for document12  3.0
+average length of characters per concept for document13  4.354119941491955
+
+average length of sentence for document1  7.9586990191017035
+average length of sentence for document2  4.976558603491272
+average length of sentence for document3  5.221627408993576
+average length of sentence for document4  4.999532928538066
+average length of sentence for document5  3.190159574468085
+average length of sentence for document6  16.050232867598137
+average length of sentence for document7  7.174757281553398
+average length of sentence for document8  3.175912043978011
+average length of sentence for document9  57.05106382978723
+average length of sentence for document10  3.232134516581037
+average length of sentence for document11  4.853584138281647
+average length of sentence for document12  3.8003959089409434
+average length of sentence for document13  10.794736842105262
+
+For average length of sentence, the documents 5,8,10 give the lowest score. The document 9 score also seems a little odd.  
