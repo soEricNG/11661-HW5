@@ -20,6 +20,7 @@ Google may associate your device identifiers or phone number with your Google Ac
 Log information When you use our services or view content provided by Google , we may automatically collect and store certain information in server logs .
 This may include :  details of how you used our service , such as your search queries .
 telephony log information like your phone number , calling-party number , forwarding numbers , time and date of calls , duration of calls , SMS routing information and types of calls .
+Internet protocol address .
 device event information such as crashes , system activity , hardware settings , browser type , browser language , the date and time of your request and referral URL.
 cookies that may uniquely identify your browser or your Google Account .
 Location information When you use a location-enabled Google service , we may collect and process information about your actual location , like GPS signals sent by a mobile device .
@@ -45,6 +46,7 @@ We will not combine DoubleClick cookie information with personally identifiable 
 We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy .
 Google processes personal information on our servers in many countries around the world .
 We may process your personal information on a server located outside the country where you live .
+Transparency and choice
 People have different privacy concerns .
 Our goal is to be clear about what information we collect , so that you can make meaningful choices about how it is used .
 For example , you can :  Review and control certain types of information tied to your Google Account by using Google Dashboard .
@@ -66,6 +68,7 @@ We may reject requests that are unreasonably repetitive , require disproportiona
 Where we can provide information access and correction , we will do so for free , except where it would require a disproportionate effort .
 We aim to maintain our services in a manner that protects information from accidental or malicious destruction .
 Because of this , after you delete information from our services , we may not immediately delete residual copies from our active servers and may not remove information from our backup systems .
+Information we share
 We do not share personal information with companies , organizations and individuals outside of Google unless one of the following circumstances applies :  
 With your consent We will share personal information with companies , organizations or individuals outside of Google when we have your consent to do so .
 We require opt-in consent for the sharing of any sensitive personal information .
@@ -100,7 +103,9 @@ Changes Our Privacy Policy may change from time to time .
 We will not reduce your rights under this Privacy Policy without your explicit consent .
 We will post any privacy policy changes on this page and , if the changes are significant , we will provide a more prominent notice ( including , for certain services , email notification of privacy policy changes ) .
 We will also keep prior versions of this Privacy Policy in an archive for your review .
+Specific product practices
 The following notices explain specific privacy practices with respect to certain Google products and services that you may use :  Chrome and Chrome OS Books Wallet Fiber Privacy Statement DX undertakes to collect Your Data by means that are :
+Fair Legal Transparent
 If you visit DX 's web-site , your web-browser automatically discloses , and DX 's web-server automatically logs , the following information : the date and time , the IP address from which you issued the request , the type of browser and operating system you are using , the URL of any page that referred you to the page , the URL you requested , and whether your request was successful .
 This data may or may not be sufficient to identify you .
 Any additional data that you provide , e.g. in a web-form , may also be logged .
@@ -163,6 +168,7 @@ These include laws relating to data protection , privacy , fair trading , corpor
 You undertake to seek enforcement only in a jurisdiction that is relevant to the transactions that have taken place between You and DX , in particular the jurisdiction in which you live or in which you performed the relevant acts , and the jurisdiction in which DX is domiciled or performed the relevant acts .
 If you wish to discover the relevant laws in any particular jurisdiction , DX draws your attention to the following resources :  World LII Privacy Links Compilation of [ U.S. ]  State and Federal Privacy Laws , Privacy Journal , Providence RI Privacy Law Sourcebook 2004 , EPIC , Washington DC the Australian Privacy Foundation 's pages :  International Instruments Relating to Privacy Law Privacy Laws of Countries of the World Privacy Laws of the Commonwealth of Australia Privacy Laws of the States and Territories of Australia
 Privacy International DX undertakes : Not to materially change these Terms in a manner that reduces the protections for Your Data ; To take all possible steps to prevent any company that acquires this company or any of its relevant assets from materially changing the Terms applicable to Your Data in a manner that reduces the protections for Your Data ; Where it is considering making changes to these Terms , or creating more specific Terms relating to specific services , to consult with appropriate representative and advocacy organizations ; Where it makes changes to these Terms , to ensure that the differences between successive versions are readily accessible ; To maintain all prior versions of these Terms in such a manner that they are dated , and readily accessible .
+DX means DX.com .
 Your Data means data that is capable of being associated with you , whether or not it includes an explicit identifier such as your name or customer number .
 In particular , it encompasses all data that DX is capable of correlating with you , using such means as server-logs and cookie-contents .
 Your Data does not refer to data that can no longer be associated with you .
@@ -192,6 +198,7 @@ This practice , referred to as " data matching " is facilitated by a third-party
 This practice avoids direct sharing of any personal data with the advertising website .
 Data received back through this process is used to analyze the effectiveness of such advertising to groups of customers .
 We use the information we collect for various purposes , including : completing your purchase transactions providing the services you request contacting you about the status of your store or jcp.com orders responding to your customer service inquiries or requests notifying you of product recalls or providing other information concerning products you have purchased helping to protect against fraudulent use of your personal information sending you direct mail offerings sending you email communications administering customer recognition programs , sweepstakes , contests and similar promotions identifying your product and service preferences , so that you can be informed of new or additional products , services , and promotions that might be of interest to you providing mobile marketing and service messages when requested inviting you to participate in surveys improving merchandise selections , customer service , and the overall customer shopping experience jcp family : We share information we collect with affiliated companies and licensees ( like the optical and photography departments in jcpenney retail stores ) within the jcp family of businesses .
+service providers :
 We provide information to other companies that provide support services that help us bring you the products and services we offer , market our products and services , or process your transactions .
 For instance we share information with our international fulfillment service provider , FiftyOne , for the purpose of facilitating the sale and fulfillment of online purchases that our customers choose to ship internationally .
 We also provide information to GECRB and other service providers in connection with the jcpenney credit programs .
@@ -199,6 +206,7 @@ third-party offers :
 We provide information to responsible outside companies .
 These carefully selected companies may use the information we share to let you know about their products or services , which may include providing special offers to you .
 promotion sponsors : If you enter a contest , sweepstakes or other promotion sponsored or co-sponsored by a third-party company , we may forward information about you to that company .
+others :
 On rare occasions , we may be required to disclose the information we collect pursuant to lawful requests , such as subpoenas or court orders , or in compliance with applicable laws .
 We may also disclose that information when we believe disclosure is appropriate to protect the rights , interests and property of jcpenney or others , and to protect the safety of customers , associates or others .
 This may include sharing information with other companies , attorneys , credit bureaus , agents or governmental agencies in connection with issues related to fraud , credit or debt collection .
@@ -208,6 +216,7 @@ Whether you are shopping online or in our stores , protecting your personal info
 We have appropriate physical , technical and procedural safeguards in place to secure the personal information we collect from you .
 We limit the information we provide to outside companies to only information we believe is appropriate to enable them to carry out their responsibilities under our contracts or to offer you their products and services .
 We contractually require that they have appropriate information security safeguards , and that the information provided be used only for the specifically authorized purpose .
+postal mail
 If you do not want to receive promotional mail ( postcards , etc. )  from jcpenney
 , you may : write to us at J.C. Penney Corporation , Inc. , P.O .
 Box 10001 , Dallas , TX.
@@ -220,8 +229,10 @@ Click on my account Log in Click on email + mobile preferences Check no to " Wou
 You may also write to us at J. C. Penney Corporation , Inc. , P.O .
 Box 10001 , Dallas , TX 75301-7311 , Attention :
 Corporate Customer Relations , call us at 1.800.322.1189 email us at privacy @
+jcpenneyeservices.com
 Please note that even if you unsubscribe from promotional email offers and updates , we may still contact you by email for transactional purposes .
 Some examples are communications regarding your order status , jcp rewards if you are a member , customer service inquiries , service or reminder notices , and recalls .
+mobile marketing messages
 If you are currently receiving marketing text messages from jcpenney , you may tell us to stop sending them by using the opt-out functionality contained in the next marketing text message you receive .
 After we receive your opt-out , we will send you a final text message to confirm the opt-out .
 If you prefer that we : NOT share information about you with any of the companies outside the jcp family that we have authorized to contact you regarding their products or services , or NOT share your jcpenney credit account history information with affiliated companies within the jcp family Please let us know by : writing to us at J. C. Penney Corporation , Inc. , P.O .
@@ -230,11 +241,14 @@ Corporate Customer Relations , calling us at 1.800.322.1189 email us at privacy 
 jcpenneyeservices.com Under California law , a California resident with whom jcpenney has an established relationship has the right to request certain information with respect to the types of personal information jcpenney has shared with third parties for their direct marketing purposes , and the identities of those third parties , within the immediately preceding calendar year , subject to certain exceptions .
 All requests for such information must be in writing and sent to : J. C. Penney Corporation , Inc. , P.O .
 Box 10001 , Dallas , TX 75301 .
+Attention :
+Corporate Customer Relations .
 This same California law permits jcpenney to provide you , in response to your written request , with a cost-free means to choose not to have your information shared rather than providing the above described information .
 You may exercise that choice by any of the means described under sharing with other companies .
 You can update or correct your name , address , telephone number , or email address by : writing to us at J. C. Penney Corporation , Inc. , P.O .
 Box 10001 , Dallas , TX 75301-7311 , Attention :
 Corporate Customer Relations calling us at 1.800.322.1189 or emailing us at privacy @
+jcpenneyeservices.com
 If you have an account under one of the JCPenney Credit programs from GE Capital Retail Bank ( GECRB ) , a separate privacy policy applies to each program .
 The privacy policy describes GECRB 's collection , use , and protection of information about you and your JCPenney Credit account .
 To obtain GECRB 's privacy policy for your JCPenney Credit account , you may :  click here to view GECRB 's privacy policies in connection with JCPenney Credit programs write to JCPenney Credit Services/GECRB at P.O .
@@ -242,11 +256,14 @@ Box 965007 , Orlando , FL 32896-5007 , or , call 1.800.542.0800 ( Puerto Rico , 
 You can update or correct your name , address , or telephone number for your JCPenney Credit account , or check the status of your account by :  click here to access your jcpenney credit account information on-line writing to JCPenney Credit Services/GECRB at P.O .
 Box 965007 , Orlando , FL 32896-5007 call 1.800.542.0800 ( Puerto Rico , US Virgin Islands and Guam residents call 1.800.981.8400 )  online security Secure Socket Layering ( SSL ) technology is used to encrypt your credit or debit card information , including the account number , while it is transmitted over the Internet from your computer .
 SSL is an industry standard technology for secure online transactions .
+unauthorized charges
 If unauthorized charges ( as determined by your card issuer ) are made on your credit or debit card as a result of purchases made on jcp.com utilizing our secure servers , jcpenney will reimburse you for up to $ 50 of any amounts
 you are required to pay by the card issuer .
 Also , under the Fair Credit Billing Act , your credit card provider can not hold you liable for more than $ 50 of unauthorized charges on a credit card .
 Your liability for unauthorized use of a debit card may be higher , but many debit card issuers voluntarily apply the $ 50 limit to their cards as well .
+Remember :
 In the event of unauthorized use of your credit or debit card , you must promptly notify the card issuer pursuant to its reporting rules and procedures .
+cookies-
 We or our service providers use " cookies " to collect and analyze information about your browsing and buying activity on our site .
 A cookie is a small data file stored by your web browser on your computer .
 When you arrive at jcp.com , cookies allow us to recognize you by an identification number in the cookie with the information that you as a customer have provided us .
@@ -257,6 +274,7 @@ Knowing how you prefer to shop allows us to improve your shopping experience and
 Accepting cookies through your web browser is your personal choice .
 If you use the privacy settings on your web browser to disable cookies , you can still browse jcp.com , but you may not have as exceptional a shopping experience as one that is specifically tailored to your needs .
 However , if you block cookies you will not be able to make a purchase on jcp.com .
+web beacons -
 A web beacon ( also called a pixel tag or a clear gif ) is a tiny graphic image placed on web site pages or in our emails that allows us to determine whether you have performed specific actions .
 When you access those pages or open email messages , the web beacons generate a notice of that action to us , or our service providers .
 We use that information to analyze what our visitors like to do on our site and the effectiveness of our features and advertising , as well as interactions with our e-mail advertising .
@@ -281,6 +299,7 @@ Click here to view your current coremetrics opt-out status other web site analyt
 They use cookies and web beacons to collect this information .
 To learn more about Google Analytics ' privacy practices or to opt out of having information about your site visit sent to Google Analytics , click here .
 To learn more about Omniture 's privacy practices or to opt out of cookies set to facilitate reporting by Omniture , click here .
+online behavioral advertising
 We use third-party advertising companies to serve advertisements ( e.g. banners or links ) on our behalf on other web sites , and to perform tracking and reporting functions for jcpenney with respect to our advertisements .
 These advertising companies use information about your visits to jcp.com and the web sites upon which we advertise to serve our advertising to you , including advertising targeted to your interests .
 In the course of serving our advertisements to you , a unique third-party cookie may be placed on or recognized by your browser .
@@ -311,6 +330,7 @@ Once your order is approved , jcpenney will ship it to Borderfree .
 Simultaneously , Borderfree will purchase the product ( s ) you ordered from us , which allows them to take title to the product ( s ) , bill your credit card , collect and remit any duties and taxes to the appropriate taxing authorities and arrange for the product ( s ) to be delivered to you .
 In this process , Borderfree makes the sale to you as the merchant of record .
 Customers shipping internationally who wish to :  Inquire about or update their personal information , Make a complaint about the collection or use of their personal information , or Comment on or ask questions regarding this privacy policy , should email us at privacy @
+jcpenneyeservices.com
 This policy was last updated August 22 , 2012
 Updated the instructions for opting out of mobile marketing messages Added information with respect to " international customer privacy " We may change our privacy policy from time to time .
 When considering any change , your privacy will remain a priority .
@@ -321,6 +341,8 @@ If you would like further information , or have any questions about our privacy 
 Box 10001 , Dallas , TX.
 75301-7311 , Attention :
 Corporate Customer Relations call us at 1.800.322.1189 email us at privacy @
+jcpenneyeservices.com TigerDirect.com Privacy Notice
+( Updated 11/27/2012 )
 By visiting the TigerDirect.com website or any other websites operated by TigerDirect.com or its affiliates ( collectively , the " Site " ) , you agree to accept the practices described in this Privacy Notice .
 If you do not agree to the terms of this Privacy Notice , please do not use the Site .
 Each time you use the Site , you should check the date of this Privacy Notice ( which appears above ) and review any changes that have been made since your last visit to the Site .
@@ -333,11 +355,13 @@ We gather the following types of information :  Information You Give to Us : We 
 " Personal Information " includes your name , address , telephone number , credit or debit card information , e-mail address , date of birth , IP address and the last four digits of your Social Security number .
 Personal Information is collected when you establish an account with us , place an order on the Site , participate in a contest , sweepstakes or on-line survey , or when you communicate with any of our departments such as customer service , sales or technical services through the Site , telephone , mail or fax .
 In some instances , we may obtain other people 's names and email addresses that you may choose to provide as part of our " email a friend " feature .
+Web Beacons :
 We ( or service providers on our behalf ) may collect information from visits to the Site through the use of " Web Beacons. "  
 Web Beacons are web page elements which may employ cookie technology that enable us to record data about visits to or transactions made on the Site .
 This information is sometimes known as " clickstream data. "  
 We may use this data to analyze trends and statistics to improve your online experience or our customer service .
 No Personal Information is collected through the use of Web Beacons on the Site .
+Cookies :
 Through the use of cookies , we may also collect and analyze the IP address used to connect your computer to the Internet ; computer and connection information such as your browser type and version ; operating system and platform ; purchase history ; confirmation when you open e-mail that we send you ; and the URLs which lead you to and around the Site including the date and time .
 You can generally set your browser to reject cookies or to notify you when you are sent a cookie .
 Software is also available from third parties which will allow you to visit the Site without providing this information .
@@ -349,6 +373,7 @@ If you request an email newsletter subscription , we will send you an email conf
 This confirmation process allows you to unsubscribe if you change your mind and decide not to join the list .
 Furthermore , the confirmation email will alert you if someone else has entered your email address into our email newsletter subscription list .
 In order to make our email newsletters more relevant and useful to you , our servers may receive a confirmation when you open an email message from TigerDirect.com .
+Sweepstakes Entrants :
 From time to time , we may run sweepstakes .
 If you enter a sweepstakes sponsored by us , you will opt-in to receive email or other communications from us and our affiliated partners .
 You may subsequently opt-out of the receipt of such email or communications by following the directions in the email or contacting that site .
@@ -357,6 +382,7 @@ During the applicable sweepstakes period , however , you may nevertheless receiv
 We use this information in an effort to improve your experience on the Site , to provide services to you and to communicate with you about information that you request .
 We may also use this information to help us target specific offers to you , to help us develop and improve our Site , and to tailor our Site to your interests .
 We will not rent , sell or otherwise disclose your Personal Information to unrelated third parties without your consent , except as stated in this Privacy Notice .
+Service Providers :
 We may employ other companies or individuals to provide certain services to or on behalf of us such as analyzing customer lists and data , or performing marketing or consulting services .
 These third parties ( " Service Providers " ) will only have access to the information needed to perform these limited functions on our behalf and are required to provide your Personal Information with at least the same level of protection and security as we use on the Site .
 Such Service Providers are prohibited from using your Personal Information for any purpose other than that for which such party was engaged by us and/or as stated in this Privacy Notice .
@@ -373,6 +399,7 @@ We will never share any credit card information which you have given to us with 
 Aggregate Information : We provide aggregate information to some of our business partners .
 This information is used in a collective manner and does not identify you individually in any way .
 We collect and share aggregate information in order to know more about the general profile of our customers so that we can improve your shopping experience .
+Shippers :
 If you make a purchase through the Site , your name , telephone number and shipping information must be provided to third party shippers such as UPS , FEDEX and the United States Postal Service to deliver your purchase .
 There also may be instances in which we drop-ship orders directly to you from one of our manufacturers or suppliers .
 These drop-shippers are only given your name , postal address , and telephone number for the sole purpose of fulfilling your order .
@@ -395,6 +422,7 @@ You should be aware that , following disclosure to any third party , your Person
 We maintain relationships with third party affiliate websites .
 Although we do not and can not control the activities of the third parties that operate such websites , we will cease doing business with any affiliate that engages in abusive practices , including , for example , spam , trademark infringement , predatory means of attracting visitors , or unlawful activities .
 To report abuse by an affiliate , please contact our Affiliate Manager via email at affiliates @
+TigerDirect.com .
 The Site is a general audience website and is not directed to children under the age of 13 .
 We will never knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent .
 If you are under the age of 13 , please do not provide us with personally identifiable information of any kind whatsoever .
@@ -408,6 +436,7 @@ The Site utilizes industry-standard firewalls and Secure Sockets Layer ( SSL ) t
 You should recognize , however , that no computer system is fully secure and that there are inherent risks associated with Internet transactions .
 To make sure you have the latest security features on your browser , you may want to download the most recent version of your favorite browser , which should have full SSL support .
 If your name , e-mail or postal address , telephone number or other Personal Information changes , you may update , correct or omit the relevant information by contacting us at privacy @
+TigerDirect.com .
 In addition , if you no longer wish to receive communications from us you may opt-out by emailing us at privacy @ TigerDirect.com , sending a letter to : TigerDirect.com Privacy Officer , 7795 West Flagler St. , Suite 35 , Miami , FL 33144 or by clicking on the unsubscribe link within any marketing e-mail you receive from us .
 If you no longer wish to receive our catalog , you may call us at 800-800-8300 , email us at privacy @ TigerDirect.com or send a letter to : TigerDirect.com Privacy Officer , 7795 West Flagler St. , Suite 35 , Miami , FL 33144 .
 If you have any questions or concerns about this Privacy Notice , please e-mail us at privacy @
@@ -419,14 +448,19 @@ IN NO EVENT WILL TigerDirect.com OR ITS PARENT , AFFILIATES , LICENSEES OR ANY P
 DAMAGES ARISING OUT OF YOUR ACCESS , USE OR INABILITY
 TO USE THE SITE , OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE , ERROR , OMISSION , INTERRUPTION , DEFECT , DELAY IN OPERATION OR TRANSMISSION , COMPUTER VIRUS OR LINE OR SYSTEM FAILURE ( INCLUDING LOSS OF PROFITS , LOSS OF BUSINESS OR DATA , BUSINESS INTERRUPTION , AND DAMAGES
 THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE , DELAY , OR LOSS OF THE USE OF THE SITE ) .
+THE FOREGOING LIMITATIONS APPLY
 WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT , TORT , NEGLIGENCE , STRICT LIABILITY OR ANY OTHER BASIS , EVEN IF TigerDirect.com OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES .
 Last Updated : October 25 , 2013 Shutterfly , Inc. and our family of brands take your privacy seriously .
 Please read the following to learn more about our privacy policy .
 Our Online Privacy and Security is organized as follows :
+1 .
+Information Collected 2 .
 Cookies and Similar Technologies 3 .
 Authorized Third Parties 4 .
 Use of Information 5 .
 Information Sharing With Third Parties 6 .
+Opting Out Of Information
+Sharing 7 .
 Children 's Information 8 .
 Access to Your Account Information and Preferences 9 .
 Confidentiality and Security 10 .
@@ -434,6 +468,7 @@ Third Party Sites 11 .
 Your California Privacy Rights 12 .
 Class Action Waiver 13 .
 Questions and Suggestions 14 .
+Updates to Privacy Policy
 We collect personal information when you register with any of our family of brands via our websites , mobile sites or mobile applications ( collectively , our " Sites and Apps " ) and when you use any of our products or services .
 Personal information is any information about you that is personally identifiable , such as your name , address , email address or phone number , Facebook Connect sign-in information ( if applicable ) , and any other information that is not otherwise publicly available .
 In addition , if you send email invitations to friends and family to allow them to view your pictures or saved projects , or if you invite them to participate in Shutterfly Share Sites , those email addresses are personal information .
@@ -528,6 +563,7 @@ Your continued use of our products and services constitutes your acceptance to t
 This Privacy Policy is incorporated into , and is subject to , the Terms of Use .
 While this Privacy Policy is intended to generally describe our privacy practices , our goal is to also provide more detailed information at times when it 's most meaningful to you .
 Please look for these notices within our NIKE services .
+What You Give Us
 We collect information you give us or permit us to access .
 Information may include , but is not limited to , your name , image , birth date , email and physical address , telephone number , gender , contact lists , social media information and profile , location ( GPS ) information , activity and performance information , and when necessary , credit card information .
 What We Collect From You
@@ -543,16 +579,21 @@ Enable Your Use Enhance , customize and personalize your NIKE experiences and co
 Use NIKE features , such as running routes , race registrations , placing an order and other activities Operate , Improve and Analyze Operate , provide , improve and maintain NIKE 's products and services , including analyzing user behavior and trends Send you administrative messages and other information about NIKE .
 Communicate with you about your purchase , account information or customer service Provide and Conduct Marketing and Promotions Communicate with you about our products , services and events , and for other promotional purposes Administer contests , promotions , events , surveys or other features
 Display relevant marketing to you
+NIKE Family
 We may provide your information to NIKE , Inc. companies and affiliates , including Converse and Hurley ( " NIKE Family " ) , some of which may be outside the U.S .
+Service Providers
 We may transfer your information to NIKE Family service providers to conduct our business .
 For example , they may handle credit card processing , shipping , data management , email distribution , market research , information analysis , and promotions management .
 We may also share your information to administer features ( e.g. music download , race registration , or workout routine ) .
 By Law or to Protect Rights We may disclose information upon governmental request , in response to a court order , when required by law , to enforce our policies , or to protect our or others ' rights , property or safety .
 We may share information to prevent illegal uses of NIKE 's products and services or violations of the Terms of Use , or to defend ourselves against third-party claims .
 We may also share information with companies assisting in fraud protection or investigation .
+Business Transfers
 Your information may be transferred to a third party as a part of our business assets in a sale of a part or all of NIKE .
 If this should happen , notice will be provided by posting to the website or other form of communication .
 Default Sharing When you join or use certain services , you agree to publicly share a basic amount of information , which may include your username , city location , and profile picture .
+Sharing You
+Choose
 You may choose to share certain information .
 In order to participate in certain features , you may have to adjust your privacy settings and share more information .
 You may also choose to share your activity on other platforms , such as Facebook and Twitter .
@@ -561,15 +602,19 @@ Nike Sharing Information that is publicly shared may be used by Nike for promoti
 Protecting Information Security Measures We use a variety of security measures , including encryption and authentication tools , to help protect your information .
 We use secure servers when you place orders .
 All credit card information you supply is transmitted via Secure Socket Layer ( SSL ) technology and then encrypted within our databases .
+No Guarantee
 However , like other companies , NIKE can not guarantee 100 % the security or confidentiality of the information you provide to us .
+Collection Tools
 How We Collect Information NIKE automatically collects information within our products and services or stored by your browser or Device .
 We use a variety of methods to collect this information , including , but not limited to , cookies and pixel tags/web beacons ( " Collection Tools " ) .
 If you turn off certain Collection Tools , you may not have access to many features that make your experience more efficient and some of our services and features may not function properly .
 However , you can still place product orders over the telephone by contacting our customer service number at 1-800-806-6453 .
+Third Party Tracking
 We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet .
 These companies may collect information about your interaction with us , including advertising .
 If you would like to opt-out of 3rd party tracking technologies associated with our website , please click here .
 Note that if you opt-out from these third party tracking technologies , you may still see our ads at other websites , but the ads will not be tailored using third party tracking technologies associated with our website .
+Modifying or Deleting
 Your Information You can modify or delete your profile within certain NIKE services , through your account .
 Your information previously posted may still be publicly viewable .
 NIKE may keep information and content in our backup files and archives .
@@ -587,13 +632,17 @@ This Policy describes how we treat personal information we collect both online a
 This includes on our websites or in our apps .
 It also includes at our box offices or in phone or email interactions you have with us .
 If you live in Canada , please read our Canadian Privacy Policy .
+Contact information .
 For example , we might collect your name and street address .
 We might also collect your phone number or email .
 Payment and billing information .
 For example , we collect your credit card number and zip code when you buy a ticket .
+Information you post .
 For example , we collect information you post in a public space on our website or on a third-party social media site .
+Demographic information .
 We may collect information about events you like or products you buy .
 We might collect this as part of a survey , for example .
+Other information .
 If you use our website , we may collect information about the browser you 're using .
 We might look at what site you came from , or what site you visit when you leave us .
 If you use our mobile app , we may collect your GPS location or your device 's unique identifier .
@@ -654,6 +703,7 @@ You can opt out of receiving our marketing emails .
 To stop receiving our promotional emails , click here or follow the instructions in any promotional message you get from us .
 Your device settings should provide you with instructions on how to turn off push notifications .
 It may take about ten days to process your request .
+Do n't worry !
 Even if you opt out of getting marketing messages , we will still be sure to send you transactional messages .
 For example , we may still contact you about your orders .
 You can modify information you have given us .
@@ -701,6 +751,7 @@ This policy does not apply to the privacy practices of those websites .
 Read the privacy policy of other websites carefully .
 We are not responsible for these third party sites .
 If you have any questions about this Policy or other privacy concerns , you can email us at privacy @
+livenation.com .
 Please do not include your credit card number or other sensitive information in your email .
 You can also write us at :  Live Nation Entertainment , Inc.
 9348 Civic Center Drive Beverly Hills , CA 90210 Attention : Privacy Officer , Legal If you are not satisfied with our response , you can contact TRUSTe here .
@@ -708,6 +759,7 @@ From time to time we may change our privacy practices .
 We will notify you of any material changes to this policy as required by law .
 We will also post an updated copy on our website .
 Please check our site periodically for updates .
+Privacy Policy Changes
 Updated January 1 , 2013
 In connection with a restructuring of our business , we have updated our Privacy Policy to reflect that the Site is operated by Zapppos IP , Inc. ( successor-in-interest to Zappos Development , Inc. ) .
 Although the substance of the policy is effectively the same as in the past , there are some changes .
@@ -730,6 +782,8 @@ This privacy policy applies to the Site .
 This privacy policy does not necessarily apply to any offline collection of your personal information .
 Please see below for details .
 We are not responsible for the content or privacy practices on any web site not operated by Zappos IP , Inc. to which the Site links or that links to the Site .
+1 .
+Information Collection .
 We collect information from you in several different ways on this Site .
 One goal in collecting personal information from you is to provide an efficient , meaningful , and customized experience .
 For example , we can use your personal information to : help make the Site easier for you to use by not having to enter information more than once .
@@ -752,6 +806,7 @@ We may post on the Site the names and cities of contest and sweepstakes winners 
 By entering a contest or sweepstakes , you may be opting in to receive our email newsletter and special offers and this will be disclosed in the official rules governing the contest or sweepstakes .
 ( c ) Cookies and Other Technology .
 Like many sites , the Site employs cookies and web beacons ( also known as clear GIF technology or action tags ) to speed your navigation of the Site , recognize you and your access privileges , and track your Site usage .
+( i )
 Cookies are small pieces of information that are stored as text files by your Internet browser on your computer 's hard drive .
 Most Internet browsers are initially set to accept cookies .
 You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive , but if you do , you will not be able to access or use portions of the Site .
@@ -761,9 +816,11 @@ THE SITE 'S COOKIES DO NOT AND CANNOT INFILTRATE A USER 'S HARD DRIVE TO GATHER 
 Our cookies are not spyware .
 ( ii ) Web beacons assist in delivering cookies and help us determine whether a web page on the Site has been viewed and , if so , how many times .
 For example , any electronic image on the Site , such as an ad banner , can function as a web beacon .
+( iii )
 We may use third-party advertising companies to help tailor site content to users or to serve ads on our behalf .
 These companies may employ cookies and web beacons to measure advertising effectiveness ( such as which web pages are visited or what products are purchased and in what amount ) .
 Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us .
+( iv )
 As an example , Facebook collects certain information via cookies and web beacons to determine which web pages are visited or what products are purchased .
 Please note that any information collected by Facebook via cookies and web beacons is not linked to any customer 's personal information collected by us .
 ( d ) Log Files .
@@ -787,6 +844,7 @@ Bizrate.com is an independent company that permits shoppers to rate their experi
 After placing an order on the Site , you may receive the opportunity to provide feedback on your experience .
 This choice is optional and will not affect your order or service from us , whether or not you choose to provide feedback .
 Your feedback is collected by Bizrate.com , not us , and is governed by their privacy policy , available at http : //shop.bizrate.com/content/privacy.html .
+2 .
 Information Use and Disclosure .
 ( a ) Internal Use .
 We use your personal information to process your order and provide you with customer service .
@@ -800,6 +858,8 @@ Also , you may submit your email address for reasons such as to register for a c
 If you submit your email address , we use it to deliver the information to you .
 We always permit you to unsubscribe or opt out of future emails ( see the opt out section , below , for more details ) .
 Because we have to communicate with you about orders that you choose to place , you can not opt out of receiving emails related to your orders .
+( c )
+External Use .
 We want to provide you with excellent service and to offer you a great selection .
 We do not sell , rent , trade , license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under Zappos.com , Inc. 's control , except that :  ( i )
 As do most catalog and Internet retailers , we sometimes use others to perform specific functions on our behalf .
@@ -807,9 +867,11 @@ When we disclose information to these service providers , we disclose informatio
 For example , in order to deliver products to you , we must share some information .
 We partner with third parties ( such as the U.S. Postal Service , United Parcel Service , and Federal Express ) to ship products , to ensure delivery , and so that we can obtain feedback , improve the quality of our service , and measure and improve the quality of the service of the third party .
 In the example of shippers , we provide them some personally identifiable information such as your name , shipping address , email , and phone number .
+( ii )
 Similarly , to help you buy products and provide customer service to you , we must provide your credit card number to financial-services corporations such as credit-card processors and issuers .
 When we submit your credit card number for authorization , we use state-of-the-art data encryption to protect your information .
 ( More on this below in Data Security. )  
+( iii )
 In the event you have elected to use the Bill Me Later payment method , to help you buy products and provide customer service to you , we must provide the last four ( 4 ) digits of your social security number and your birth date to the financial-services corporations processing your transaction .
 When you submit this information to us for approval and authorization , we use state-of-the-art data encryption to protect your information .
 ( iv ) We may disclose such information in response to requests from law enforcement officials conducting investigations ; subpoenas ; a court order ; or if we are otherwise required to disclose such information by law .
@@ -833,6 +895,7 @@ While we use industry-standard precautions to safeguard your personal informatio
 Upon your request , we will ( a ) correct or update your personal information ; ( b ) stop sending emails to your email address ; and/or ( c ) disable your account to prevent any future purchases through that account .
 You can make these requests at the customer information section of the Site http : //www.
 6pm.com/customer-service-center , or by telephoning , or emailing your request to 6pm.com 's Customer Loyalty Team 1-888-676-2660 or :  cs @
+6pm.com
 Please do not email your credit-card number or other sensitive information .
 As you might expect from us , the majority of information that we collect is obtained through the Site , and this Privacy Policy applies only to that online collection of personal information .
 We also may collect information offline , where we also try to protect the privacy of your personal information .
@@ -847,6 +910,7 @@ As we mentioned , we will try to treat offline collection , uses , and disclosur
 If we change or update this Privacy Policy , we will post changes and updates on the Site so that you will always be aware of what information we collect , use and disclose .
 We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated .
 If you have any questions about the Privacy Policy , please contact us at 1-888-676-2660 or cs @
+6pm.com .
 Privacy and cookies notice This privacy notice applies to the use of personal information by British Sky Broadcasting Limited and its group companies .
 Any member of the British Sky Broadcasting group may use and share , within that group , the information you provide and other information it holds about you for the purposes set out below .
 Information you 've provided to us , including on our websites .
@@ -867,6 +931,7 @@ We and other organisations may access and use from other countries the informati
 Please contact us by emailing us at mysky @
 bskyb.com if you want to receive details of the relevant fraud prevention agencies .
 We may also share your information with other companies for debt recovery purposes .
+For market research .
 To enable us to comply with any legal or regulatory requirements ; to protect or enforce our rights or the rights of any third party ; in the detection and prevention of fraud and other crimes ; and for the purpose of safeguarding national security .
 We may disclose your information to any successors of our business for them to use for the purposes set out in this privacy notice .
 Unless you 've asked us not to :  To send you periodic newsletters about your chosen services .
@@ -883,6 +948,7 @@ Sky Bet , Sky Poker , Sky Vegas and Sky Bingo customers can opt out of marketing
 You can opt out by calling us on 08442 414141 or via your MySky account .
 Please note that if you opt out of personalisation you will not receive tailored advertising .
 This means you will still see the same number of adverts but they will be ones that appear as standard .
+Online behavioural advertising
 If you do not want to receive online behavioural advertising , or do n't want any information processed through the use of cookies , please see the section on cookies .
 You can also opt out of receiving our newsletters by clicking on the " unsubscribe " link in emails , or via your MySky account .
 Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to dp @ bskyb.com or to Customer Relations , Sky Subscriber Services Ltd , PO Box 43 , Livingston , West Lothian , EH54 7DD , UK .
@@ -988,6 +1054,7 @@ Please note that you may still receive transactional or relationship or other no
 Your PII may be stored and processed in any country where we have facilities or in which we engage service providers , and by using our Site , you consent to the transfer of information to countries outside of your country of residence , including the United States , which may have different data protection rules than in your country .
 This Site is controlled and operated by us from the United States and is not intended to subject us to the laws or jurisdiction of any state , country or territory other than that of the United States .
 If you have any questions about this Privacy Policy , please contact us at webmaster @
+customerservice.sears.com .
 Because email communications are not always secure , please do not include credit card or other financial information , health or prescription-related information or other sensitive information in your email to us .
 GameStop knows that you care about your privacy and the use of your personal information .
 This notice describes our Privacy Policy .
@@ -999,6 +1066,7 @@ Our Websites may contain links to other websites .
 GameStop is not responsible for the privacy practices or the content of such other websites .
 This Privacy Policy does not apply to other GameStop brands such as BuyMyTronics , Game Informer , Kongregate , or PC Downloads , each of which has its own privacy policy .
 The word " computer " means any device used to connect to a Website , including , but not limited to , mobile devices .
+Information
 That You Give Us : We receive and store any information you enter on our Websites or that you give us in any other way .
 You can choose not to provide certain information , but this will limit your ability to purchase products offered on the Websites , or to take advantage of some features or promotions .
 When you place an order with us online , in a store or in any other way , your contact information is used to communicate related information , such as order and shipment confirmation , release date changes and requests for more information to facilitate processing your order .
@@ -1031,6 +1099,7 @@ A number of companies offer utilities designed to help you visit websites anonym
 The information we receive or can determine from your interaction with our Websites includes your Internet ( IP ) address ; login and password information ; email address ; web browser type and version ; operating system and computer platform ; purchase history , which we may aggregate with similar information from other customers ; the full Uniform Resource Locator ( URL ) clickstream to , through , and from our Websites , including date and time ; one or more unique identifiers ; products you viewed or searched for ; areas of our Websites you visited ; and the phone number you used to call our toll-free number .
 We also may log the length of time of your visit and the number of times you visit and purchase from us .
 We assign you one or more unique identifiers to help keep track of your future visits .
+Email Communications :
 We provide email links on our " Customer Services " page that allow you to contact us directly with any questions or comments you may have .
 We may receive a confirmation when you open any email that we send to you , if your computer supports such capabilities .
 If you send us any email , we will retain such email and your email address for response .
@@ -1081,6 +1150,7 @@ We will cooperate with law enforcement and judicial authorities , and we may pro
 We will fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities .
 We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal .
 We undertake no obligation or duty to release such information , however , unless we are required to do so under applicable law .
+Other Circumstances .
 If we want to share personal information other than as permitted or described above , we will notify you , and you may choose to instruct us not to share the information .
 We have several types of third-party relationships .
 We offer an affiliate program through a third-party affiliate manager .
@@ -1137,6 +1207,7 @@ We may email reminders of our notices and conditions .
 You should frequently check our website to see recent changes to these terms and policies .
 Unless stated otherwise , our current privacy notice applies to all information that we have about you and your account .
 Conditions of Website Use may be found by clicking here .
+PRIVACY & SECURITY
 This privacy policy explains what personal information is collected through this Web site , how that information is used , to whom it 's disclosed , and how it 's safeguarded .
 Unless indicated otherwise , this policy applies only to personal information collected through the Web site , microsites , or mobile sites of our brands and lines of business that expressly adopt , and display or link to , this policy .
 These brands and lines of business include Victoria 's Secret , Victoria 's Secret Pink , and Pink Nation .
@@ -1152,6 +1223,8 @@ How do we secure your information on our site ?
 Where is personal information stored and processed ?
 Whom should you contact with questions or concerns ?
 When was this policy last updated ?
+1 .
+Information
 You Directly Provide through this Site
 We collect personal information directly from you to do all the things typically associated with Web sites .
 Examples of the information we collect include name , address , phone number , email address , personal preferences , credit card number , purchase and ordering information , demographical information , responses to survey questions and sizing information .
@@ -1159,10 +1232,13 @@ This information is collected at various places : for instance , when you check 
 We may also collect information that you provide about people you know .
 For example , we collect your gift recipient 's contact information to process your gift orders .
 We use personally identifying information to do things like :  process your online orders ; open an online account at your request ; personalize your online experience with content and offers that are tailored to your interests ; provide customer service , whether it 's responding to a request or following up on an order ; include you in surveys and contests ; enable you to post your content , such as comments or images ; facilitate networks of online social activity centered around our products and services ; improve our website , improve the manner in which offers are made on our website , improve purchase decisions of our visitors and the interactions visitors have with our website ; enable you to interact with third-party content service providers , whether by linking to their sites , viewing their content within our Web environment , or by viewing our content within their Web environment ; and market products and services for each of our brands -- for instance , by adding you to the Victoria 's Secret and Victoria 's Secret Pink email list or Victoria 's Secret print-catalog list when you make an online purchase ; or by adding you to the Pink Nation email list if you sign up for Pink Nation .
+2 .
 Information We Observe or Collect through Technology a .
+Navigational Information
 When you visit this Web site , we collect navigational information , such as browser type and version , service-provider identification , IP address , the site from which you came , and the site to which you navigate .
 Navigational information is largely anonymous in the sense that it does n't contain your name , address , phone number , email address or other information that directly identifies you .
 However , we may associate this navigational information with your personal information if you provide it .
+b .
 Cookies and Clear gifs To better understand what you do while on our site , we use a browser feature known as a cookie .
 A cookie is a small data file that 's stored by your Web browser on your computer .
 It 's used to do things like see how you navigate our Web site , what you click on , and remember you and your online purchases when you return .
@@ -1178,14 +1254,19 @@ As an example , we may use cookies to keep track of what you put into your shopp
 That can help us contact you if your online session is disrupted in mid-purchase , resulting in an abandoned cart .
 We can also use this technology to determine whether you 'd be interested in participating in special events , given your preferences .
 The end result is a more personalized experience that 's tailored to your needs and tastes .
+3 .
 Information Others Observe or Collect through Technology Third-party service providers help us provide certain features on our site and analyze our visitor 's site and purchase preferences .
 They may also help us deliver ads to you about our products through banner ads when you visit other web sites ( often referred to as " online network advertising " ) .
 The following provides more information about these service providers and the choices you have with respect to their services .
+a .
+Features
 We use third-party services to provide certain features on our Web site .
 These third parties use some or all of the technologies described in Information We Observe or Collect Through Technology to provide these features .
+b .
 Analysis We contract with analytics companies to better understand your use of our Web sites , and Web capabilities like embeddable widgets .
 These third parties may serve surveys to determine satisfaction with the Web site and then tie the responses to actual behavior on the Web site , which will allow us to improve our Web sites and Web capabilities .
 They accomplish this by using some or all of the technologies described in Information We Observe or Collect Through Technology .
+Back To Top
 We contract with third-party advertising companies to deliver tailored online display and banner advertising to you on other Web sites .
 To serve this advertising , these third-party companies place , use , or rely on technology , such as cookies and clear gifs , as customers interact with us through our Web sites and interact with other Web sites .
 Once this information is gathered , it helps us select tailored ads for placement on these other Web sites , based on a customers combined online and offline ( e.g. , in-store ) shopping history and experience with us .
@@ -1201,10 +1282,13 @@ It is possible that the third party providing content through our Web site may c
 Whether the third-party content appears within our Web environment ( like a map frame ) , or you leave our Web site for another site to view it , those service provider 's terms , conditions , and privacy policies govern your online experience ( unless there 's a conspicuously posted statement by us that says otherwise ) .
 Please view their terms of service and privacy policies if you have any question about their practices .
 Here 's a partial list of the sites or content of these third parties :  1 .
+Interactive Maps
 We may facilitate easy access to the online maps of content providers like Google , Microsoft , and Yahoo !
 There you can get quick location , driving , and contact information for our stores .
+2 .
 Inline Framing We may provide content on our Web site that exists on other Web sites , such as live or recorded video , through a frame surrounded by content from our Web site ( this framed content is referred to as an iFrame ) .
 The iFrame is used to facilitate easy access to the content from the other Web site .
+3 .
 Sweepstakes , Contests , and Survey Sites
 We may rely on the expertise of third-party service providers to run sweepstakes , contests , and surveys .
 Navigation to these sites may be seamless so that it appears you 're still in our Web site environment .
@@ -1214,16 +1298,19 @@ Social Networking or Other User-Generated-Content Sites , and Other Websites
 We may at times facilitate easy access to third-party sites , like social networking sites and other sites that host user-generated content .
 This may include easy click-through access or even " single sign-on " to these sites .
 The third-party 's privacy policy applies to any personal information you provide at these sites .
+5 .
 The Angel Credit Card Site We enable you to navigate easily to the site of World Financial Network Bank ( WFNNB ) , where you can apply for the Angel card and pay invoices online .
 WFNNB issues and owns the Angel credit card accounts .
 When you apply online for an Angel credit card or pay your account online , you leave our site and interact directly with WFNNB .
 Any information you provide to WFNNB is subject to WFNNB 's terms , conditions , and policies , including its privacy policy .
+6 .
 Third-Party Rewards or Membership Programs
 We may interact with certain unrelated companies that offer their customers memberships to participate in programs , which may include rewards for purchases from us .
 If you become a member of one of these programs or purchase something from us at this Web site through such a program , we may provide the company administering the membership program enough information about you or your purchase ( like contact information , transaction date , transaction amount , and order number ) , to enable it to honor your membership .
 We are not responsible for the privacy practices of the companies sponsoring these membership programs .
 Their terms , conditions , and policies apply to any information that 's provided to them to further their programs .
 Back To Top 1 .
+Our Sister Brands
 We may also share the information described in this policy , like postal and email address , customer preferences , and purchase history within our corporate family so that our affiliates may market to you .
 Our affiliates include such brands as Bath & Body Works , Beauty Avenues , Inc. , C.O .
 Bigelow , Henri Bendel , White Barn , the La Senza family of brands , Mast Global , and Slatkin & Co ..  2 .
@@ -1231,10 +1318,14 @@ Contractors We use third-party " back-office " contractors to help handle parts 
 They help us do things like fulfill orders , process payments , provide some customer service through chat features , monitor site activity , serve surveys and provide analysis from the surveys when combined with website use , maintain databases , administer and monitor emails , ( e.g. , from Victoria 's Secret or Pink Nation ) , administer and send mobile messages ( e.g. , from Pink ) , serve ads on this and other Web sites as described above and provide consulting services .
 Contractors may also assist us in hosting microsites and mobile Web sites where you may provide personal information about you and others you know ; and where they may observe information about you in the same way as described above ( see What Personal Information Is Collected
 At Our Web Site , and How Is It Used ? )  
+3 .
 Other Marketers We may share your name , postal address , and summary purchase information with other merchants and merchant exchanges .
 Other merchants may , in turn , use this information to send you offers on their products and services .
 If you do n't want this information shared with these merchants and exchanges , please click here .
+4 .
 Law Enforcement and Emergency Response We may disclose specific information about our Web-site visitors if we have a good-faith belief that it 's necessary or authorized under the law to protect our customers , the public , or our business .
+5 .
+Sale or Merger
 In the event we sell or transfer all or a portion of our business assets , including a brand or line of business , consumer information may be one of the business assets that are transferred in connection with the transaction .
 Nothing in this policy restricts our ability to share aggregated or anonymized information that does not directly identify you .
 Back To Top 1 .
@@ -1246,12 +1337,18 @@ Opting out of any of these emails will not stop operational or transactional mes
 We may occasionally provide you with the opportunity to opt in to receive email messages from third parties .
 If you do opt in , we 'll share your e-mail address with the specific third party in question .
 Please review their privacy policies to see how they treat your personal information .
+2 .
+Mobile Messaging
 If you 've signed up for mobile text messaging offers ( e.g. , from Pink ) but later decide you no longer wish to receive offers from one or both of these brands or lines of business , simply follow the opt-out instructions included in the mobile message .
+3 .
+Postal Mail :
 Catalogs If you 'd like to specify your preferences for our catalogues ( including or postal-mail offers ) , simply follow the instructions on each such catalogue , or dial 1-800-411-5116 .
 To reduce postal mail click here .
+4 .
 Victoria 's Secret Pink Nation Please keep in mind that Pink Nation is a separate and stand-alone program , which you may join by visiting the Pink Nation Web site .
 Accordingly , your unsubscribe preferences for Victoria 's Secret and Victoria 's Secret Pink wo n't affect your Pink Nation preferences ( and vice versa ) .
 Please specify those preferences separately .
+5 .
 Cookies , Clear Gifs , and Online Network Advertising
 You may always choose to block cookies or even clear cookies from your computer .
 Simply follow your browser 's instructions on how to block and clear cookies .
@@ -1263,7 +1360,11 @@ Many Web sites rely on their cookies to provide you with services or features th
 With respect to cookies used as part of a survey , if you do not want the use of cookies to associate survey responses with your behavior on the site , you can elect to not take the survey .
 If you want to opt out of the display of our online advertising , which appears on other Web sites , and which is based on the association of your online information with your offline information through interactions with us ( purchase information , in particular ) , then please click the preference icon that may appear on such advertising .
 Additionally , if you want more information about online network advertising , in general , including access to some online network advertisers that allow you to designate your preferences , click here ( you 'll then leave this site for a centrally managed online site where you may specify your preferences ) .
+6 .
+Other Marketers
 If you do n't want your basic contact and purchase information shared with other marketers ( other than our affiliates and our contractor/service providers ) , please click here .
+7 .
+Our Affiliates
 If you do n't want your contact and purchase information shared between our affiliates ( such as Bath & Body Works ) , please call 1-800-411-5116 and request not to have your information shared .
 Back To Top We prefer to keep your personal information accurate and up-to-date .
 You may update or modify your billing- and shipping-related information , and other account information , by logging onto our sites ( e.g. , Your Account on Victoria 's Secret and Victoria 's Secret Pink , or Edit Profile on your Pink Nation account ) .
@@ -1279,14 +1380,21 @@ inand email sign-up Website forthe United Kingdom .
 L Brands has certified that it adheres to the Safe Harbor Privacy Principles of Notice , Choice , Onward Transfer , Security , Data Integrity , Access and Enforcement with respect to personal data transferred from the European Union ( EU ) to the U.S .
 For more information about the Safe Harbor program and to view L Brands ' certification , please visit the U.S. Department of Commerce 's Safe Harbor Web site .
 If you wish to make an EU-related inquiry about privacy or data transfer , please contact our Associate Vice President ( AVP ) of Legal and Compliance Services Back
+To Top 1 .
 General inquiries If you have general questions about our Privacy Policy , please feel free to contact us .
+2 .
 Specific Questions about this Policy For specific questions , concerns , or complaints contact our Associate Vice President ( AVP ) of Legal and Compliance Services , who administers this policy .
 You may contact this person by letter or email at :  AVP , Privacy Legal & Compliance Services
+L Brands , Inc.
 3 Limited Parkway Columbus , OH 43230 US generalcounsel @
+limitedbrands.com (
+ATTN :
 Privacy Matter )  3 .
+Safe Harbor Program
 Additionally , if you are an EU resident , and your matter is not resolved to your satisfaction through direct contact with our AVP , Privacy , you may contact the Direct Marketing Association ( DMA ) .
 We utilize the DMA Safe Harbor Program as an independent dispute resolution mechanism to address any complaint EU residents may have regarding data privacy matters .
 You may contact the DMA by letter or email at :  Safe Harbor Line Direct Marketing Association 1615 L St. , NW Suite 1100 Washington , DC 20036 US safeharbor @
+the-dma.org
 Back To Top Please click here to view any material and substantive changes made since the last revision of this privacy policy .
 If you 're concerned about how your personal information is used , please visit our site often for this and other important announcements about VictoriasSecret.com .
 This Privacy Statement is effective December 17 , 2013 Yahoo takes your privacy seriously .
@@ -1340,17 +1448,24 @@ Users who visit this page can opt out of receiving future marketing communicatio
 We reserve the right to send you certain communications relating to the Yahoo service , such as service announcements , administrative messages and the Yahoo Newsletter , that are considered part of your Yahoo account , without offering you the opportunity to opt out of receiving them .
 You can delete your Yahoo account by visiting our Account Deletion page .
 Please click here to read about information that might possibly remain in our archived records after your account has been deleted .
+Return to top
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs .
 We have physical , electronic , and procedural safeguards that comply with federal regulations to protect personal information about you .
 To learn more about security , including the security steps we have taken and security steps you can take , please read Security at Yahoo .
 CHANGES TO THIS PRIVACY POLICY Yahoo may update this policy .
 We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo account or by placing a prominent notice on our site .
+Return to top
 If you have questions , suggestions , or wish to make a complaint , please complete a feedback form or you can contact us at : Yahoo !
+Inc .
 Customer Care - Privacy Policy Issues 701 First Avenue Sunnyvale , CA 94089 ( 408 )
+349-5070
 If you feel that your inquiry has not been satisfactorily addressed , please click here for information on consumer agencies that may be able to provide you with additional assistance .
+Last Updated :
+May 31 , 2013
 This privacy policy lets you know what information we collect , how we may share that information , and your choices regarding the sharing of your information .
 This policy applies to Walgreens stores , Walgreens.com , any Walgreens Affiliate sites where you may interact with any of the Walgreens Family of Companies , and other places where we may collect personal information .
 By visiting Walgreens.com , you are accepting the practices described in this Privacy Notice .
+Personally Identifiable Information :
 Is information we collect that uniquely identifies you , the customer .
 This information may contain name , shipping address , email address , phone number , and prescription information , as well as other information you may choose to share while interacting with our site and online services .
 Non-Personal Information :
@@ -1380,16 +1495,20 @@ Third Party Offers : We may send offers to selected groups of customers on behal
 When we do this , we do not give that business your name and address .
 If you do n't wish to receive e-mail marketing communications from us , simply indicate your preference under My Account/Communication Preferences or by following the directions provided with the communication or advertisement .
 Our primary purpose in collecting personal information is to provide you with a safe , smooth , efficient , and customized experience .
+Agents :
 We may employ other companies and individuals to perform functions on our behalf .
 These functions may include fulfilling orders , delivering packages , hosting sites from this website or walgreens.com including the photo site , product reviews , developing pictures or photo products , sending postal mail and e-mail , removing repetitive information from customer lists , analyzing data , or processing credit card payments .
 They have access to personal information needed to perform their functions , but may not use it for other purposes .
+Prescriptions :
 We will not intentionally release your prescription information other than to you , Walgreen Co. and its subsidiaries , our agents ( such as contracted fulfillment parties , if any ) , your authorized representative , or your prescriber or other authorized medical professional .
 We may forward your prescription information to your insurance plan , so that we can handle reimbursement of your prescription purchase for your convenience .
+Disclosures :
 As required by law we will disclose medical and other information which may relate to you .
 For example , in compliance with the Methamphetamine Control Act of 1996 , We will provide the Drug Enforcement Administration with the name and address of each individual who purchases products on this website or Walgreens.com which contain the ingredients ephedrine or pseudophedrine .
 We , or our photo site host , may also disclose information which we believe to be in violation of Title 18 of the United States Code , Sections 2251 et seq.
 to appropriate law enforcement agencies .
 Invitees : You may invite other parties to view the content in your Photo Albums .
+Photo.
 Walgreens.com will share such information as may be necessary for your invitees to view the albums you designate .
 Business Transfers : As we continue to develop our business , we might sell or buy stores or assets .
 In such transactions , customer information generally is one of the transferred business assets .
@@ -1447,6 +1566,7 @@ Stop receiving e-mail and mobile marketing communications by changing your prefe
 If you have an online account , login to Your Account and click on Communication Preferences .
 If you do not have an online account you may click Unsubscribe from the bottom of Walgreens emails , and reply STOP to our text messages to stop receiving emails and SMS text messages .
 To request unsubscribing by email , contact Customerservice @
+mail2.walgreens.com .
 Set your Web browser to not accept new cookies or web beacons , or be notified when you receive a new cookie , or disable cookies altogether .
 However , please note that without enabling these features , your experience on Walgreens.com will not be as smooth and you will not be able to take full advantage of our website 's features .
 Please see the Help section of your browser for instructions on managing security preferences .
@@ -1471,6 +1591,7 @@ We may disclose your information within our corporate family of companies .
 We may disclose your personal information to third parties under the following limited circumstances : with service providers or suppliers that help with our business operations or joint products ; with the company that we partner with to offer credit card programs , if you apply for Sam 's Membership , to help you obtain the highest credit limit possible this may include your Membership and application information ; with carefully selected companies who may offer you products and services of interest , you may opt-out of this sharing ; in order to respond to Member inquiries from the account 's primary Member or from an officer or principal of a Business Member ; for certain business Members who purchase business resale merchandise , such as tobacco products , we may share information with our partners in order to enable them to offer such customers discounts or rebates .
 with your consent , and when necessary to protect the safety , property , or other rights of Sam 's Club , Members , or associates , or when otherwise required by law ; we may transfer any information we have about you in connection with a merger or sale ( including transfers made as part of insolvency or bankruptcy proceedings ) involving all or part of Sam 's Club or as part of a corporate reorganization or stock sale or other change in corporate control .
 Read more about How We Use
+and/or Share Your Information
 We want to communicate with you in ways you want to hear from us .
 Examples include email newsletters , special offers , and new product announcements .
 We use the following communication standards : We will not contact you via text message without your express consent ( opt in ) , We use an opt-out standard for all other marketing communications .
@@ -1478,6 +1599,7 @@ This means we will conduct the activity unless you tell us not to .
 ( opt out ) .
 Learn more about how to opt out in the " Your Choices " section below .
 Information from other sources , such as companies that help us to update our records , and Information automatically collected when you visit our websites , such as via cookies , and in Clubs , such as via video cameras .
+Read more about Information
 We Collect Member Services - for Club experience , marketing preferences , product questions and general feedback/questions .
 Email Privacy Office - for privacy or Sam 's Club Privacy Policy feedback/questions .
 We recognize the importance of privacy and believe it is a matter of trust .
@@ -1496,18 +1618,24 @@ Our goal is to provide clear , prominent , and easily accessible information abo
 This policy applies to Member information obtained by Sam 's Club in connection with its operations , both in Clubs and online , in the United States and Puerto Rico .
 Sam 's Club has a specific Notice of Privacy Practices for its personal information practices relating to our Health and Wellness operations in our retail stores .
 This Notice is available at each Pharmacy and Optical Center .
+Information
+We Collect
 We collect personal information about you to deliver the products and services
 you request and to help improve your shopping experience .
 We strive to limit the amount of personal information collected to support the intended purpose of the collection .
+Information
+You Give Us
 We collect personal information from you in a variety of ways when you interact with Sam 's Club , both in Clubs and online .
 Some examples are when you : Sign up for a Sam 's Club Membership ; Make an online or in-Club purchase from us ; Use a gift registry ; Conduct a transaction where we collect information , including when required by law ( such as purchasing certain cold medications ) ; Request Member service or contact us ; Submit a Sam 's Club related story , testimonial , rating or review , or other user-generated content that may be posted on the site ; Participate in a contest , sweepstake , promotion , or survey ; or Otherwise submit personal information to us along with any related content of the communication .
 Personal information is information that identifies you or is reasonably linked to you .
 The personal information we collect may include contact and payment information like your name , email and physical addresses , phone numbers , and credit and debit card information .
 When you ask us to ship an order , we may collect information you provide us such as the name , address , and phone number of recipients .
 For certain transactions , we may be required to collect information to comply with legal requirements .
+Information from Other Sources
 We may receive personal information about you from other sources as well .
 Examples of these sources are entities that can help us correct or supplement our records , improve the quality or personalization of our service to you , and help prevent or detect fraud .
 In addition , we may collect information from consumer reporting agencies or other service providers if you obtain certain financial products .
+Automated Information Collection
 We receive and store certain types of information when you interact with our websites , emails , and online advertising .
 Our purpose is to allow the websites to work correctly , to evaluate use of the website , and to support website analytics and marketing campaigns .
 Some examples include : We may collect technical information such as your internet protocol address , your computer 's operating system and browser type , the address of a referring website , if any , and the path you take through our web pages .
@@ -1526,6 +1654,7 @@ We may transfer or disclose your information within our corporate family of comp
 Sam 's Club may also receive and share information within the family of Walmart companies to better understand Member needs and improves services .
 How We Disclose Your Information Outside Sam 's Club Sam 's Club does not sell or rent your personal information to third parties .
 We only disclose your personal information with your prior consent or under the following limited circumstances .
+Service Providers
 We may disclose or otherwise make available personal information about you to service providers that help with our business operations .
 Examples are shipping vendors , billing and refund vendors , payment card processors , and companies that help us improve our product and service offerings and our websites .
 Your personal information may be stored and processed by our service providers in the United States or other locations where the service providers or Sam 's Club maintain facilities .
@@ -1536,15 +1665,19 @@ These include situations when the sharing is necessary to protect the safety , p
 Examples include protecting the health or safety of Members , or addressing crimes committed on Sam 's Club property .
 Data from in-Club security cameras may also be provided to law enforcement upon written request .
 Sam 's Club may provide your personal information in response to a search warrant or other legally valid inquiry or order , or to an investigative body in the case of a breach of an agreement or contravention of law , or as otherwise required by applicable law .
+Credit Offers
 If you apply for a Sam 's Club Membership , we may share your information with the company that we partner with to offer credit card programs .
 To help you obtain the highest credit limit possible this may include your Membership and application information .
 Similarly , if you qualify for a credit account and are not offered a credit account by a Sam 's Club Associate we may share your information with our partner , so that they may extend the offer of credit as required by law .
 However , you can choose to stop receiving prescreened offers of consumer credit from all companies , including prescreened offers of Sam 's Club credit , by calling 1.888.567.8688 .
+Marketing Purposes
 From time to time , we may disclose information with carefully selected companies who may offer you products and services of interest .
 To opt out of this sharing click here and follow the instructions .
 These opt-outs do not apply to the Sam 's Club co-branded credit card or to data sharing regarding business customers that purchase business resale merchandise .
+Business Member Inquiries
 We may share information regarding a Business Membership with the account 's primary Member or an Officer or Principal of the business in order to respond to their inquiry .
 We may share information about Business Members resale merchandise purchases , such as tobacco products , with our partners in order to enable them to offer such customers discounts or rebates .
+Business Transfers
 We may transfer any information we have about you in connection with a merger or sale ( including transfers made as part of insolvency or bankruptcy proceedings ) involving all or part of Sam 's Club or as part of a corporate reorganization or stock sale or other change in corporate control .
 Your Choices Data Collection , Use , or Disclosure Sam 's Club collects , uses , or discloses your personal information consistent with this policy .
 The method of obtaining consent is appropriate for the type of personal information being collected , used , or disclosed .
@@ -1587,8 +1720,10 @@ We may also share your personal information with partners when we team up to off
 If you would like to opt-out of this type of sharing , click here and follow the instructions .
 Please note your choice to opt-out under any of the above will apply only to the individual cardholder Membership .
 If there are several cardholder Memberships under a single Account ( such as a spouse 's card or add-on card ) , each person with a Membership card must opt-out .
+Credit offerings
 The above marketing preferences do not apply to our credit card offerings since these are provided through our financial institution partner ( s ) .
 However , you can choose to stop receiving prescreened offers of credit from all companies , including our prescreened offers , by calling 1.888.567.8688 or by going to www.optoutprescreen.com .
+Online Operations and Advertising
 You may exercise choices related to our online operations and advertising .
 For instance , you can choose to browse our websites without accepting cookies
 Please know that cookies allow us to recognize you from page to page , and they support your transactions with us .
@@ -1618,6 +1753,7 @@ To learn more , and to opt out of seeing interest-based advertisements on these 
 Websites may also offer their own opt-out methods for interest-based advertising .
 Sam 's Club Advertising Sam 's Club may use how you browse and shop in order to show you ads that are more relevant to your interests .
 If you choose to opt out , you will continue to see ads while browsing SamsClub.com , but they will not be based on how you browse and shop .
+Cookie Status :
 Your current settings allow you to see interest-based advertisements while browsing or shopping on SamsClub.com .
 Once you have opted out , we will no longer use your browsing and shopping behavior to select which ads are displayed to you on SamsClub.com .
 You will continue to see ads on our site .
@@ -1640,6 +1776,7 @@ If you need assistance accessing records related to your Optical , Pharmacy , or
 How We Secure Your Information
 Securing your information is a company priority .
 Whether you are shopping online or in our Clubs , we use reasonable security measures to help protect the confidentiality of personal information .
+Online Protections
 Your account information is protected by the password you use to access your online account .
 Please keep this password confidential .
 We also use a technology called Secure Sockets Layer ( SSL ) .
@@ -1655,6 +1792,7 @@ When you use our Pharmacy and Optical Center services , you may provide us with 
 We understand the sensitive nature of such information and respect your privacy by keeping it confidential in accordance with laws and our policies .
 Our Notice of Privacy Practices for personal health information describes how we protect the information and how you may access it .
 This notice is provided to you by the Pharmacy or Optical Center at the first time of service or can be requested at any time at your local Sam 's Club .
+Financial Products and Services
 When you obtain financial products and services from us , and our partner , GE Capital Retail Bank ( GECRB ) , we may collect and use certain financial-related information .
 We understand the sensitive nature of this information as well , and protect it in accordance with laws and our policies .
 Find out more about GECRB 's Privacy Policy .
@@ -1689,6 +1827,7 @@ Your use of one of our services after changes to this Privacy Statement have bee
 QVC is not responsible for the privacy or data collection policies or practices of the services from which you access our services , of services we link to , or of any services that are linked to our services .
 This Privacy Statement tells you what kinds of information we collect about our customers , users , and visitors , how we use that information and with whom we may share it , and how you can access and change our information about you .
 If you have additional questions about QVC 's privacy practices or would like more information , please contact Privacy-Statement @
+QVC.com .
 What personal information do we collect from our customers ?
 What other kinds of customer information do we collect ?
 How do we collect this information ?
@@ -1716,11 +1855,13 @@ Similarly , entering one of our contests or sweepstakes , submitting an employme
 If you sign up to receive Today 's Special Value e-mails , messages or e-newsletters , you may be asked to provide information concerning your personal interests .
 We may also collect personal information from your creation of wish lists or reminders .
 If you are a member of one of our third party affinity programs , we may also collect personal information from you about your membership and your purchases from us .
+Return to top
 If you ask us to ship a purchase to somebody else or you use our notify a friend feature , we will ask you to provide the name and address or e-mail address of the person to whom you are sending or recommending the product , as well as your name and contact information .
 We may also obtain personal information about you such as contact information , updated address and shipping instructions , and credit information from agents , consultants , contractors , carriers , and other third parties .
 We may also collect contact and other information about prospective customers .
 Additionally , our system keeps track of technical information about your computer or mobile device , such as the browser type and version , browser plug-in types and versions , and operating system of your computer , the Internet Service Provider ( ISP ) or other provider you use to access certain of our services , and your internet protocol ( ip ) address , location , and time zone setting .
 To help us understand the use of our services by our visitors and improve your shopping experience and to aid us in marketing and managing our services , we also automatically collect information as to how you were directed to them , how you navigate around them , what products you browse , and your purchasing activities .
+Return to top
 When you register with QVC , we compile the personal information you give us about yourself into an individual profile , adding other personal information about you to that profile as we obtain it .
 We also collect information about your purchases and other uses of our services as they occur .
 Personal and other information about prospective customers may be collected by us or obtained from our business partners or other third parties .
@@ -1745,6 +1886,7 @@ Return to top QVC participates in the VeriSign Secured Seal Program .
 All of your personal information is encrypted by Secure Sockets Layer ( SSL ) software when it is transmitted to us via the Internet to any website address beginning with https .
 We maintain the servers that store this information in a facility with restricted access .
 We also truncate your credit card number to the last four digits when we communicate with you about your order .
+Return to top
 We use your personal information to process your orders .
 This includes for example , contacting you to confirm your order , fulfilling it , and shipping it .
 We may also contact you about your order .
@@ -1755,6 +1897,7 @@ We may also use your personal information to improve our service to you , to cus
 For example , we periodically review customer information as part of servicing our accounts .
 We may also contact you from time to time to inform you of the services that we offer and to gather information about how we can improve them .
 Finally , we analyze information we obtain automatically , including from cookies and web beacons , concerning our customers ' use of , access to , and navigation of our services and their browsing and purchasing activities to improve , customize , and market our services and content , to enhance our customers ' shopping experiences , and for research , marketing , and other business purposes .
+Return to top
 In order to receive and process your orders and requests , we may provide your name , address , and other personal information , such as your e-mail address and telephone number , to other entities such as credit card companies and package delivery services ( for example , American Express , Visa , UPS , and USPS ) .
 Similarly , if you order a product that is shipped directly from another company , or offered by us in conjunction with another company , we will share personal information about that order with the other company .
 We may use third party agents , consultants , and contractors to perform business functions on our behalf , including customer service , credit review , account servicing , customer research , marketing , provision of IT services , and records maintenance .
@@ -1769,7 +1912,9 @@ It is possible that QVC or part of its business or one of its affiliates could m
 If this occurs , you will be notified of the change by e-mail or notice on this website or one of our other services .
 We reserve the right to share personal information about you with our affiliates in the course of our business operations .
 We also reserve the right to share personal information about you when we believe this to be appropriate to comply with the law or in cooperation with legal authorities , to enforce the General Terms and Conditions governing use of this website and the terms and conditions governing the use of our other services , or to protect the rights , property , safety , or other interests of QVC and its customers .
+Return to top
 We may share non-personal , non-individually identifiable information about our customers with the group of people with whom we share personal information , as well as with other third parties such as vendors , advertisers , and marketing firms .
+Return to top
 You can always review your personal profile at QVC and correct or update it by going to the area of one of our services dealing with customers ' accounts and accessing the specific type of information that you wish to correct or update .
 You can also change personal information such as your shipping address or payment method when ordering .
 You can subscribe to or unsubscribe from e-newsletters and other promotional notices by going to the area on one of our services dealing with customers ' accounts and accessing the type of communication service you wish to change .
@@ -1781,12 +1926,14 @@ However , you can opt out of the process by which certain categories of informat
 Return to top Occasionally , we participate in rewards programs with other business organizations where customers who are also members of these businesses will get a credit or a reward for their QVC purchases from the other member organizations .
 We also sometimes advertise QVC products on other services in the form of a link so that visitors can click over to our services and purchase the products if they are interested .
 In these situations , we share information about our customers ' QVC purchases with these other member organizations and other services under the contracts these entities have with QVC .
+Return to top
 Our services are not intended for use by children , and the terms and conditions governing the use of our services require that you must be at least 18 years old to use them .
 In addition , we do not solicit or collect information from anyone who tells us that he or she is under 13 years of age .
 The LivingSocial privacy policy ( the Privacy Policy ) is intended to inform you of our policies and practices regarding the collection , use and disclosure of Personal Information and other information you submit to us through LivingSocial .
 By accessing or otherwise using the LivingSocial websites , e-mails or other services ( collectively LivingSocial ) , you agree to the terms and conditions of this Privacy Policy ( which is incorporated into and forms a part of the LivingSocial Conditions of Use ) and consent to the processing of your information according to the Privacy Policy .
 Collection of Information Use and Disclosure of Information Choices
 About Your Information Third Party Advertising and Sites Security Children 's Personal Information Access Enforcement Changes to this Privacy Policy
+How to Contact Us
 We collect the following types of information : Personal Information that You Provide
 In general , we collect Personal Information that you submit to us voluntarily through LivingSocial .
 We also collect information that you submit in the process of creating or editing your account and user profile on LivingSocial .
@@ -1809,6 +1956,8 @@ We may use and display your full name and e-mail address when you send an e-mail
 Additionally , we may use your e-mail address to contact you on behalf of your friends ( such as when someone sends you a personal message ) or to send notifications from a social network or other website with which you have registered to receive such notifications .
 We may also use your e-mail address to contact you for things such as notifications of limited-edition shop sales and other related information .
 You may indicate your preference to stop receiving further promotional communications as further detailed below .
+Information Collected
+Via Technology
 As you use LivingSocial , certain information may be passively collected and stored on our or our service providers ' server logs , including your Internet protocol address , browser type and operating system .
 We also use Cookies and navigational data like Uniform Resource Locators ( URLs ) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed , or on which of the advertisements displayed on LivingSocial you clicked .
 An Internet protocol address , or IP Address , is a number that is automatically assigned to your computer when you use the Internet .
@@ -1829,6 +1978,7 @@ It is up to you to make sure you are comfortable with the information you choose
 We will not have any obligations with respect to any information that you post to parts of LivingSocial available to others , and recommend that you use caution when giving out personal information to others through social media networks or otherwise .
 You may choose to log in or access Living Social using the Facebook Connect feature or by downloading the LivingSocial mobile app through Facebook or another third party platform .
 By doing this , you are authorizing that third party platform to send us certain information from your account with them , and you authorize us to collect , store and use in accordance with this Privacy Policy any and all information available to us through the third party platform .
+Feedback Information
 If you provide feedback to us , we may use and disclose such feedback for any purpose , provided we do not associate such feedback with your Personal Information .
 We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy .
 You agree that any such comments and any e-mail we receive becomes our property .
@@ -1848,153 +1998,3 @@ We use Google Analytics to better understand how visitors interact with our site
 This service provides non-personally identifiable data including but not limited to data on where visitors came from , what actions they took on our site and where visitors went when they left our site .
 If you would like to learn more about this service , or about choices to opt out from it , please click here .
 In addition , HasOffers provides us with analytics services related to downloads of our mobile app .
-If you would like to learn more about this service , or about choices to opt out from it , please click here .
-We may also develop non-personal information concerning LivingSocial users , using de-identification processes to help ensure that such information can not reasonably be re-associated or connected with you as an individual .
-Generally , we aggregate this information and use it in statistical analysis to help us analyze patterns in the use of LivingSocial .
-This Privacy Policy does not limit our use or disclosure of de-identified information ( i.e. , that is not connected with you as a user ) in any way , and we reserve the right to use and disclose such information to our partners , advertisers and other third parties in our discretion .
-In the event we go through a business transition such as a merger , acquisition by another company or sale of all or a portion of our assets , your Personal Information may be among the assets transferred .
-You acknowledge that such transfers may occur and are permitted by this Privacy Policy , and that any acquirer of ours or that acquirer 's assets may continue to process your Personal Information as set forth in this Privacy Policy .
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to ( a ) comply with relevant laws or to respond to subpoenas or warrants served on us ; or ( b ) to protect and defend our rights or property , you , or third parties .
-You hereby consent to us sharing your Personal Information under the circumstances described herein .
-We offer you choices regarding the collection , use and sharing of your Personal Information .
-You have a right at any time to stop us from contacting you for marketing purposes .
-When you receive promotional communications from us , you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to opt-out by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly at privacy @
-Despite your indicated e-mail marketing preferences , we may send you administrative e-mails regarding LivingSocial , including , for example , administrative and transactional confirmations , and notices of updates to our Privacy Policy if we choose to provide such notices to you in this manner .
-If you use Living Social services provided through mobile devices , you may have additional choices , including over whether location services are enabled .
-Additionally , if you use other social media services in connection with Living Social , the providers of these services may provide you with additional choices concerning the types of data shared with LivingSocial .
-We may enable advertisers and ad servers to promote third-party products and/or services by placing advertisements on LivingSocial .
-These advertisers and ad servers may use Cookies , Web Beacons ( which are usually small , transparent graphic images ) or similar technologies in order to monitor information related to the serving of their advertisements , and may use information gathered over time and across Web sites in order to make the ads you receive more relevant .
-Clicking on such advertisements will direct you to the website of a third-party and the advertiser .
-We also engage in remarketing to market our sites , products and services or those of our trusted advertising partners across the web : when a user visits our site , a Cookie is dropped on the user , and advertising networks may deliver targeted advertisements to users with this Cookie .
-We do not share any of your Personal Information with our remarketing ad networks or advertisers .
-You have choices about third-party advertising : both the Network Advertising Initiative and the Digital Advertising Alliance
-allow you to opt out from online behavioral advertising by their participating companies .
-LivingSocial may contain links to other websites or may make third-party applications available to our users .
-Please be aware that we are not responsible for the privacy practices or the content of such other websites or applications .
-We encourage our users to read the privacy statements of each and every website they visit or application they use .
-This Privacy Policy applies solely to information collected by us through LivingSocial and does not apply to these third-party websites or applications .
-The ability to access information of third parties from LivingSocial , or links to other websites or locations , is for your convenience and does not signify our endorsement of such third parties , their products , their services , other websites , locations or their content .
-We are committed to protecting the security of your Personal Information .
-We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access , use or disclosure .
-Even though we have taken significant steps to protect your Personal Information , no company , including us , can fully eliminate security risks associated with Personal Information .
-LivingSocial does not direct its websites to children under the age of thirteen .
-We market families-related products or services for purchase by adults .
-We require registered users of the site to be at least eighteen years old .
-Protecting the privacy of children is very important .
-If we obtain actual knowledge that a registered user is under eighteen , we will promptly delete information associated with such account .
-By using LivingSocial , you are representing that you are at least eighteen years old .
-You have the right to request a copy of the Personal Information that we hold about you .
-If you would like a copy of some or all of your Personal Information , please contact us at privacy @
-We may charge a reasonable fee for this service .
-We want to make sure that your information is accurate and up-to-date .
-You may ask us to correct or remove information that you think is inaccurate .
-You may change any of your profile information by editing it in the profile settings page .
-Personal or other information about you collected on LivingSocial sites and services may be stored and processed in the United States or any other country in which LivingSocial or its affiliates , subsidiaries and services providers maintain facilities .
-LivingSocial complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection , use and retention of information from European Union Member Countries .
-To learn more about the Safe Harbor program , please visit the Safe Harbor Website .
-This Privacy Policy is subject to occasional revision at our discretion , and if we make any substantial changes in the way we use your Personal Information , we will post an alert on this page or may otherwise post an alert on the LivingSocial website .
-If you object to any such changes , you must cease using LivingSocial .
-Continued use of LivingSocial following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes .
-If you are a California resident , you may request that we provide to you ( i ) a list of the categories of personal information about you that LivingSocial has disclosed to third parties for the third parties ' direct marketing purposes during the calendar year preceding your request , ( ii ) the names and addresses of such third parties , and ( iii ) if the nature of the third parties ' business can not reasonably be determined from their names , examples of the products or services marketed , if known to LivingSocial , sufficient to give you a reasonable indication of the nature of the third parties ' business .
-To submit your request , please e-mail privacy @
-If you have questions or concerns about our Privacy Policy , please contact us at : privacy @
-Last updated : January 22 , 2013 Privacy Policy Privacy Policy Effective Date : This Privacy Policy became effective in November , 1999 , and was most recently changed on November 7 , 2010 .
-At Bed Bath & Beyond we are committed to protecting the privacy of our customers and therefore do not sell or rent our customers ' Personal Information to any third party .
-Further , we do not share your Personal Information with any third parties for their direct marketing purposes without first providing you the opportunity to opt-in or opt-out of such sharing .
-You may request information about how we share information consistent with this Privacy Policy by contacting us at : privacy.information @
-The www.bedbathandbeyond.com web site ( the " Site " ) is owned , operated and maintained by Bed Bath & Beyond Inc. , the parent company to the group of subsidiaries that operate retail store chains under the names Bed Bath & Beyond , Christmas Tree Shops , Harmon and Harmon Face Values and buybuy BABY , and such other brands as we may acquire or launch from time to time .
-We refer to Bed Bath & Beyond Inc. , as , the " Company " while we refer to the Bed Bath & Beyond , Christmas Tree Shops , Harmon and Harmon Face Values and buybuy BABY and other brands collectively as , the " Brands " .
-We refer to the Company and the Brands together as " Bed Bath & Beyond " " we " " us " or " our. "  
-This page sets forth our policies regarding the use and disclosure of information we collect from or are able to obtain about the Site 's users .
-We refer to these policies as our Privacy Policy .
-In addition to the lower case words we us and our defined above , you will notice that we capitalize certain words in this Privacy Policy even though the rules of grammar do not require that they be capitalized .
-We do this because these words have specific meanings in this Privacy Policy .
-These specific meaning are found where the capitalized words are placed in bold text and inside quotation marks .
-We hope this Privacy Policy will answer your questions regarding how we treat information gathered from our Site .
-If you have questions or concerns regarding this Privacy Policy , other than requests for our information sharing practices as described in the first paragraph above , please feel free to contact us at customer.service @
-bedbath.com or , if you wish to exclude your Personal Information from our direct marketing programs including e-mail , please refer to the section titled How to Opt-Out , below .
-This Privacy Policy governs use of the Site and all the web sites operated by us , except where the Company or one of the Brands may have a separate policy in place for a specific web site other than the Site ( an Other Web Site ) .
-In such a case the policy applicable to the Other Web Site will be available at the Other Web Site and will govern the use of the Other Web Site .
-This Privacy Policy does not apply to information that you may provide to us , or that we may obtain through means other than the Site , such as by phone or postal mail , but please note that Personal Information obtained through such means will be treated in accordance with the first paragraph above and our use of such Personal Information will be consistent with this Privacy Policy .
-By accessing and using the Site you are agreeing to the terms of this Privacy Policy .
-If you do not agree to the terms of this Privacy Policy , you are not authorized to use the Site .
-Furthermore , by providing us with Personal Information on this Site , you fully understand and unambiguously consent to the collection and processing of such information in the United States in accordance with this Privacy Policy .
-As we update and diversify our products and services , this Privacy Policy may change .
-We reserve the right , at our discretion , to change , modify , add , or remove portions of this Privacy Policy at any time .
-Please check this page for updates periodically .
-If we make any material changes to this Privacy Policy , we will notify you here .
-Unless the law otherwise requires , we do not provide notice of changes to this Privacy Policy and your use of the Site following any posted changes will indicate your acceptance of such changes .
-This Privacy Policy became effective in November , 1999 , and was most recently changed on November 7 , 2010 .
-The last change to this policy was :  Clarification on our use of third party advertisers Clarification regarding the use of Personal Information for processing returns and exchanges , and for protection against fraud and error Elimination of paragraph regarding information sharing with UPromise , whose participants now receive their benefits through other means
-What Information Do We Actively Collect and Inactively Gather ?
-In order to process orders efficiently , when you place an order with us or register an account on the Site we actively collect the following personal information : name , billing address , shipping address , e-mail address , phone number , and credit card number ( Personal Information ) .
-If you prefer not to disclose your Personal Information online , you can always place your order by calling 1-800-GO BEYOND ( 1-800-462-3966 ) or visiting one of our many stores .
-You may need to visit a separate site to find locations for the Brands .
-We may periodically conduct surveys of visitors to our Site for internal research purposes that may include marketing .
-This helps us better understand what our customers would like to see from us .
-If you respond to such surveys , we may ask you for some Personal Information and/or may contact you for more information , but only if you have given us permission to do so .
-We may also receive information about you from other sources .
-We ( including through our third party service providers ) may inactively collect from you information that is not in the same category as Personal Information .
-For example , we might track information about the date and time you access the Site , the type of web browser you used , and the web site from which you connect to our Site .
-We collect and use this and other non-Personal Information ( such as demographic data ) to analyze and develop our business strategy and to determine how you found out about us , your interests regarding our products and services and how to further improve our Site .
-We , or a third party , may also collect information from your activities on the Site as well as other sites for the purpose of providing advertisements and other content that is customized to your interests and preferences .
-This means that our ads may appear on participating web sites based upon your browsing activity .
-To accomplish all this , and also to allow us to offer our customers streamlined ordering and other useful features , we , as do many web sites , use and allow our third party advertising companies to use the technologies listed below and other similar technologies ( the Tracking Technologies ) :  Cookies and Clear GIFs - Cookies are pieces of information that are stored by your browser on your computer 's hard drive .
-Cookies make web surfing easier for you by saving your customer identification information ( i.e. , username , password , shopping cart information , etc. )  while you 're at a site .
-Cookies also track where you travel on a site and what you look at and purchase .
-A clear GIF is typically a one-pixel , transparent image ( although it can be a visible image as well ) , located on a web page or in an e-mail or other type of message , which is retrieved from a remote site on the Internet enabling the verification of an individual 's viewing or receipt of a web page or message .
-You can learn more about how third party advertising companies use cookies and clear GIFs , including how to opt-out , by clicking here .
-Please read the explanation carefully
-should you choose to opt-out using this method .
-IP Address Tracking and Clickstream Data - In addition to cookies and clear GIFs , our servers automatically collect data about your server 's Internet address when you visit our Site .
-This information , known as an Internet Protocol address , or IP Address , is a number that is automatically assigned to your computer by your Internet service provider whenever you are on the Internet .
-When you view pages from our Site , our servers may record or log your IP Address and sometimes your domain name .
-Our server also may record the page that linked you to us and related information including any ads you may have clicked on .
-Such information is known as Clickstream Data .
-Email Interconnectivity - If you receive email from us , we may use certain tools to capture data related to when you open our message , click on any links or banners it contains and make purchases .
-In some cases , we may link the non-Personal information collected through the Tracking Technologies with certain of your Personal Information .
-WE WANT TO BE SURE THAT YOU UNDERSTAND THAT ACCEPTING
-TRACKING TECHNOLOGIES ONTO YOUR COMPUTER
-GIVES US ACCESS TO YOUR COMPUTER OR ANY PERSONAL INFORMATION ABOUT YOU .
-YOU MAY SET YOUR WEB BROWSER SOFTWARE
-TO REJECT TRACKING TECHNOLOGIES ,
-BUT , IF YOU DO SO , CERTAIN FUNCTIONALITY OF THE SITE MAY BE AFFECTED .
-Third parties ( including , but not limited to , software vendors , advertisers and fulfillment companies ) may also use Tracking Technologies by or through the Site .
-SUCH THIRD PARTIES TRACK OR COLLECT , AND HAVE NO RESPONSIBILITY OR LIABILITY FOR ANY TRACKING , DATA COLLECTION OR OTHER ACTIVITIES OF SUCH THIRD PARTIES
-You may be visiting the Site from your mobile device .
-Certain mobile service providers uniquely identify mobile devices and we or our third-party service providers may receive such information if you access the Site through mobile devices .
-Some features of the Site may allow for the collection of mobile phone numbers and we may associate that phone number to mobile device identification information .
-Furthermore , some mobile phone service providers operate systems that pinpoint the physical location of devices that use their service .
-Depending on the provider , we or our third-party service providers may receive this information .
-If an e-mail address you have provided us is a wireless e-mail address , you agree to receive messages at such address from us ( unless and until you have elected not to receive such messages by following the How to Opt-Out instructions below ) .
-You understand that your wireless carrier 's standard rates apply to these messages , and that you may change your mind at any time by following the instructions below .
-You represent that you are the owner or authorized user of the wireless device on which messages will be received , and that you are authorized to approve the applicable charges .
-WE COMPLY WITH U.S. FEDERAL SECURITIES LAWS WITH REGARD TO THOSE PAGES OF OUR SITE
-USED TO FURNISH INVESTOR RELATIONS MATERIALS
-SUCH AS ELECTRONIC PROXY MATERIALS AND ANNUAL REPORTS
-( THE INVESTOR RELATIONS PAGES ) .
-WE DO NOT PLACE COOKIES OR CLEAR GIFS ON THE HARD DRIVES OF USERS
-VISITING THE INVESTOR RELATIONS PAGES .
-Among our top priorities is keeping your Personal Information secure .
-We use Secure Sockets Layer ( SSL ) technology to encrypt all of your Personal Information before it is transmitted to us so that it can be safeguarded as much as possible from being read or recorded as it travels over the Internet .
-You can tell you are sending information securely by the unbroken key icon or closed lock icon that appears at the bottom of your Internet browser 's window .
-These icons will appear when you are placing an order on our Site .
-In addition , you will see our Site address change slightly , from http : to https : indicating a secure server connection is being used .
-The computers that store your Personal Information are located in a separate facility which employs firewall and security technology .
-We employ these procedures to protect your Personal Information from unauthorized access , destruction , use , modification or disclosure .
-You may be able to create an account on our Site with a username and password , including if you set up a wish list , customer account , a registry , or use the Bridal Toolkit .
-We recommend you exercise extreme care in protecting your password information and do not publicly share any of your passwords .
-You are responsible for maintaining the strict confidentiality of your account password , and you are responsible for any access to or use of the Site by you or another person or entity using your password , whether or not such access or use has been authorized by or on behalf of you .
-Your Personal Information will be stored and processed on our computers in the United States .
-The laws on holding Personal Information in the United States may vary and be less stringent than laws of your state or country .
-We will use commercially reasonable efforts to hold and transmit your Personal Information in a safe , confidential and secure environment .
-If you object to your Personal Information being transferred or used in this manner please do not register with or use the Site .
-ALTHOUGH WE WILL TAKE ( AND REQUIRE OUR THIRD-PARTY PROVIDERS TO TAKE )
-PRECAUTIONS TO PROTECT THE PERSONAL INFORMATION COLLECTED FROM
-AND STORED ON THE SITE ,
-BECAUSE OF THE OPEN NATURE OF THE INTERNET , WE CANNOT GUARANTEE
-THAT PERSONAL INFORMATION STORED ON OUR SERVERS ,
-TRANSMITTED TO OR FROM A USER , OR OTHERWISE IN OUR CARE WILL BE
-BY OTHERS , SUCH AS HACKERS .
-ANY LIABILITY FOR ANY THEFT OR LOSS OF , UNAUTHORIZED ACCESS OR DAMAGE TO , OR INTERCEPTION OF ANY DATA OR COMMUNICATIONS .
-BY USING THE SITE , YOU ACKNOWLEDGE THAT YOU UNDERSTAND AND AGREE TO ASSUME THESE RISKS .

@@ -39,12 +39,14 @@ Session Cookies : We use session cookies for technical purposes such as to enabl
 These cookies let our server know that you are continuing a visit to our site .
 The OMB Memo 10-22 Guidance defines our use of session cookies as " Usage Tier 1Single Session .
 The policy says , " This tier encompasses any use of single session web measurement and customization technologies. "  
+Persistent Cookies :
 We use persistent cookies to enable Webtrends and Google Analytics to differentiate between new and returning NIH.gov visitors .
 Persistent cookies remain on your computer between visits to NIH.gov until they expire .
 We also use persistent cookies to block repeated invitations to take the ACSI survey .
 The persistent cookies that block repeated survey invitations expire in 90 days .
 The OMB Memo 10-22 Guidance defines our use of persistent cookies as " Usage Tier 2Multi-session without Personally Identifiable Information ( PII ) .
 The policy says , " This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected. "  
+Up to top
 If you do not wish to have session or persistent cookies placed on your computer , you can disable them using your Web browser .
 If you opt out of cookies , you will still have access to all information and resources at NIH.gov .
 Instructions for disabling or opting out of cookies in the most popular browsers are located at http : //www.usa.gov/optout_instructions.shtml External Web Site Policy .
@@ -53,6 +55,7 @@ Up to top You do not have to give us personal information to visit the NIH Web s
 However , if you choose to receive alerts or e-newsletters , we collect your email address to complete the subscription process .
 If you choose to provide us with personally identifiable information , that is , information that is personal in nature and which may be used to identify you , through an e-mail message , request for information , paper or electronic form , questionnaire , customer satisfaction survey , epidemiology research study , etc. , we will maintain the information you provide only as long as needed to respond to your question or to fulfill the stated purpose of the communication .
 If we store your personal information in a record system designed to retrieve information about you by personal identifier ( name , personal email address , home mailing address , personal or mobile phone number , etc. ) , so that we may contact you , we will safeguard the information you provide to us in accordance with the Privacy Act of 1974 , as amended ( 5 U.S.C .
+Section 552a ) .
 If NIH operates a record system designed to retrieve information about you in order to accomplish its mission , a Privacy Act Notification Statement should be prominently and conspicuously displayed on the public-facing website or form which asks you to provide personally identifiable information .
 The notice must address the following five criteria :  NIH legal authorization to collect information about you Purpose of the information collection
 Routine uses for disclosure of information outside of NIH
@@ -62,17 +65,21 @@ Up to top NIH uses web measurement and customization technologies to help our We
 All uses of web-based technologies comply with existing policies with respect to privacy and data safeguarding standards .
 Information Technology ( IT ) systems owned and operated by NIH are assessed using Privacy Impact Assessments ( PIAs ) posted for public view on the Department of Health and Human Services ( DHHS )
 Web site ( http :
+//www.hhs.gov
 /pia/nih.html External Web Site Policy ) .
 NIH conducts and publishes a PIA for each use of a third-party website and application ( TPWA ) as they may have a different functionality or practice .
 TPWA PIAs are posted for public view on DHHS Web site http : //www.hhs.gov
+/pia/
 nih_pia_summaries_fy12_q2.pdf External Web Site Policy .
 Groups of records that contain information about an individual and are designed to be retrieved by the individual 's name or other personal identifier linked to the individual are covered by the Privacy Act of 1974 , as amended ( 5 U.S.C .
+Section 552a ) .
 For these records , NIH Systems of Record Notices are published in the Federal Register and posted on the NIH Senior Official for Privacy Website .
 When you visit the NIH Institute/Center sites , please look for the Privacy Notice posted on the main pages .
 When web measurement and customization technologies are used , the Privacy Policy/Notice must provide :  Purpose of the web measurement and/or customization technology ; Usage tier , session type , and technology used ; Nature of the information collected ; Purpose and use of the information ; Whether and to whom the information will be disclosed ; Privacy safeguards applied to the information ; Data retention policy for the information ; Whether the technology is enabled by default or not and why ; How to opt-out of the web measurement/customization technology ; Statement that opting-out still permits users to access comparable information or services ; and , Identities of all third-party vendors involved in the measurement and customization process .
 Up to top NIH will retain data collected using the following technologies long enough to achieve the specified objective for which they were collected .
 The data generated from these activities falls under the National Archives and Records Administration ( NARA )
 General Records Schedule ( GRS ) 20-item IC ' Electronic Records , ' and will be handled per the requirements of that schedule ( http : //www.archives.gov/records-mgmt/grs/grs20.html External Web Site Policy ) .
+Up to top
 As part of the OMB Memo M-10-06 , Open Government Directive External Web Site Policy , the NIH uses a variety of new technologies and social media options to communicate and interact with citizens .
 These sites and applications include popular social networking and media sites , open source software communities and more .
 TPWAs are Web-based technologies that are not exclusively operated or controlled by NIH , such as applications not hosted on a .gov domain or those that are embedded on NIH Web pages .
@@ -94,6 +101,7 @@ AddThis also uses non-personal data to manage the service efficiently and diagno
 Although AddThis offers some analytics and usage data to NIH , these reports do not include any PII .
 The reports are password-protected and only available to NIH Managers , System Owners , Communications Staff , Web Teams , and other designated staff who require this information to perform their duties .
 The AddThis Privacy Policy is available at http :
+//www.addthis.com/
 privacy External Web Site Policy
 Up to top Bit.ly : NIH uses Bit.ly to shorten long URLs for use in email messages , Twitter feeds and on Facebook pages .
 Bit.ly collects and provides data on how often you as an email recipient or Facebook/Twitter user , click on the shortened URLs distributed by NIH staff .
@@ -123,6 +131,7 @@ However , if you choose to register , you will not provide PII directly to NIH .
 NIH has disabled the commenting feature on its Flickr sites .
 Therefore , PII can not be collected or unintentionally received by NIH employees via the Flickr site .
 The Flickr Privacy Policy is available at http : //info.yahoo.com/privacy/us/yahoo/flickr/details.html
+External Web Site Policy
 Up to top Google+ : NIH has one main Google+ pageNational Institutes of Health ( NIH )
 External Web Site Policy .Several
 other NIH Institutes and Centers ( ICs ) sponsor their own Google+ pages .
@@ -151,7 +160,9 @@ The amount of visible personal information will depend on your LinkedIn user pri
 You can completely avoid displaying any PII by not creating a LinkedIn account , not joining NIH LinkedIn groups , or not interacting with NIH LinkedIn groups in any way ( i.e. , private messaging , posting on group pages , etc. ) .
 Although NIH staff managing LinkedIn groups may view the information you provide when you submit a request to join NIH LinkedIn groups , NIH staff does not collect , use , or disclose any of this information .
 The LinkedIn Privacy Policy is available at http : //www.linkedin.com
+/static ?
 key=privacy_policy & trk=hb_ft_priv
+External Web Site Policy
 Up to top Pinterest : NIH has one main Pinterest pageNational Institutes of Health ( NIH )
 External Web Site Policy .Several
 other NIH Institutes and Centers ( ICs ) sponsor their own Pinterest pages .
@@ -211,12 +222,14 @@ If you log on to the YouTube site before watching NIH videos , YouTube may assoc
 If you log onto YouTube and comment on an NIH video , any personal information you included on your YouTube profile page will be visible to visitors who click on the comment field .
 If you do not log in before watching NIH videos posted on YouTube , you can not comment on NIH videos and your site usage will not be associated with you or a YouTube account .
 The YouTube Privacy Policy is available at http : //www.youtube.com/
+t/privacy
 External Web Site Policy NIH conducts and publishes a Privacy Impact Assessment ( PIA ) for each use of a third-party website as they may have a different functionality or practice .
 To learn more , visit the published PIAs at http : //www.hhs.gov/pia/nih_pia_summaries_fy12_q1.pdf External Web Site Policy
 For more information on the uses of social and new media for which GSA has negotiated a federally-friendly Terms of Service Agreement , visit the HHS Center for New Media at http : //newmedia.hhs.gov
 /standards/tos.html External Web Site Policy
 For further information about NIH privacy policy , please contact the NIH Senior Official for Privacy at privacy @
 mail.nih.gov ; call 301-451-3426 or visit http : //oma.od.nih.gov/ms/privacy .
+WebMD Privacy Policy Summary
 WebMD understands how important the privacy of personal information is to our users .
 We understand that your privacy matters and we respect your privacy choices .
 This summary of our privacy policy is intended to give you an overview of :  What information we collect about you
@@ -225,6 +238,7 @@ How we use your information
 How and with whom we may share the information we have about you
 How we protect your information How to contact us with questions or concerns
 We urge you to take the time to read our entire Privacy Policy for complete detail about our privacy practices and your information .
+Information Collected About You
 We may collect Personal Information about you such as your name , address , telephone number , email address or health information in the following ways :  When you register for or update an existing profile on our web sites or Apps or register for the WebMD Health Manager ;
 When you use certain interactive tools and services ( e.g. , the Ovulation/Pregnancy Calendar or Symptom Checker ) ; When you sign-up for newsletters or other communications from WebMD ; When you use our Email a Friend service ; When you participate in an online survey ; or When you provide personal information in a community area or other public forum .
 We may collect Non-Personal Information information that can not be used to identify you via Cookies , Web Beacons , WebMD mobile device applications and from external sources , even if you have not registered with or provided any Personal Information to WebMD .
@@ -237,22 +251,30 @@ If you have registered and no longer want WebMD to use your Personal Information
 Most browser software can be set to reject Cookies , and you can opt out of Cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site .
 You can click on the Ad Choices logo at the bottom of every page of the WebMD web sites to stop tailored advertising from WebMD .
 Read more about " What Choices Do I Have ? " , " Cookies " and " TRUSTed Ads Program Ad Choices "  How Information Collected
+About
+You Is Used
 We may use information we collect about you to :  Administer your account ; Provide you with access to particular tools and services ; Respond to your inquiries and send you administrative communications ; Obtain your feedback on our sites and our offerings ; Statistically analyze user behavior and activity ; Provide you with more relevant content and advertisements ; Conduct research and measurement activities ; or Send you personalized emails or secure electronic messages pertaining to your health interests , including news , announcements , reminders and opportunities .
 We may combine Personal and Non-Personal Information collected by WebMD about you , and may combine this information with information from external sources .
 Third parties may also use Non-Personal Information in order to display advertising that reflects the interests and preferences of our user community .
 Read more about How Information Collected
+About
+You Is Used
+With Whom
 Do We Share Your Information ?
 WebMD will not disclose any Personal Information about you unless specifically agreed to by you or :  To comply with legal requirements , such as a law , regulation , search warrant , subpoena , or court order ; To our vendors and suppliers in the course of their provision of products or services to WebMD ;
 In the event of a corporate change in control resulting from , for example , a merger , a sale of assets , or bankruptcy ; or In special cases , such as in response to a physical threat to you or others .
 WebMD does not make your Personal Information available to third parties for their marketing purposes .
 Read more about With Whom Do We Share Your Information ?
 How Do We Secure and Retain
+Your Information ?
 We have put in place technical , physical , and administrative safeguards to protect the Personal Information that we collect .
 Read more about How Do We Secure Your Information ?
+Contact WebMD
 Please send us an email using the Contact Us link at the bottom of every page of our site if you have any questions about this Privacy Policy or the Personal Information we maintain about you .
 You can also contact WebMD 's Privacy Office at :  WebMD ,
 LLC Attn : Office of Privacy 1201 Peachtree Street , NE 400 Colony Square , Suite 2100 Atlanta , GA 30361 Phone : 866-788-3097
 Read the complete WebMD Privacy Policy .
+WebMD Privacy Policy
 WebMD understands how important the privacy of personal information is to our users .
 This Privacy Policy will tell you what information we collect about you and about your use of WebMD and its services .
 It will explain the choices you have about how your personal information is used and how we protect that information .
@@ -274,6 +296,7 @@ Inaccurate information will affect your experience when using the WebMD Web Site
 Registration Access to some WebMD interactive tools and services may be limited to users who have registered .
 Some of our tools ( such as certain quizzes or calculators ) do not retain your Personal Information , while others ( such as Ovulation/Pregnancy Calendar ) store your Personal Information in accordance with this Privacy Policy and the authorization you provide at the time you submit Personal Information in order to use the tool .
 WebMD Health Manager , which allows you a secure place to gather , store , manage and share your Personal Information and provides tools and services to better manage your health and the health of your family , requires additional registration .
+WebMD
 Health Manager has the ability to use Personal Information that you provide to send you personalized emails or secure electronic messages .
 However , WebMD does not allow any third parties to place beacons or cookies or to gather any data about you in connection with your use of the WebMD Health Manager .
 Furthermore , WebMD does not use any information that you submit in connection with that tool to deliver any advertisements to you on or off of the WebMD Web Sites .
@@ -287,10 +310,12 @@ This Discussion link in any Health Community posting , and WebMD will send you a
 When you sign up for our email newsletters on the WebMD Web Sites or at any time , you can choose to opt out of receiving additional promotional newsletters from WebMD or our Sponsors .
 You can unsubscribe from a newsletter by :  Following the directions included at the bottom of the newsletter .
 Logging in to the WebMD Web Sites and unchecking the newsletters you no longer wish to receive under the My Profile section .
+Email a Friend
 If you use our Email a Friend service to tell a friend about a feature on the WebMD Web Sites or a newsletter , we will ask you for your name , your email address and your friend 's email address .
 We will automatically send your friend a one-time email inviting him or her to visit the site using your name and email address as the " from " email address .
 WebMD does not use your friend 's email information for any other purpose .
 We will only use the information you provide to send the requested email to your friend .
+Market Research
 From time to time , WebMD may conduct online research surveys through email invitations , pop-up surveys and online focus groups .
 When participating in a survey , we may ask you to enter Personal Information .
 The Personal Information you submit in a survey may be used by WebMD for research and measurement purposes , as described below , including to measure the effectiveness of content , advertising or programs .
@@ -308,10 +333,13 @@ In some cases , we may not be able to remove your Personal Information .
 Emails You Send to WebMD
 This Privacy Policy does not apply to information , content , business information , ideas , concepts or inventions that you send to WebMD by email .
 If you want to keep content or business information , ideas , concepts or inventions private or proprietary , do not send them in an email to WebMD .
+Non-Personal Information
 Even if you do not register with or provide any Personal Information to WebMD , we collect Non-Personal Information about your use of the WebMD Web Sites .
+Non-
 Personal Information means information that we can not use to identify or contact you .
 We may also acquire Non-Personal Information about our users from external sources .
 While you may use some of the functionality of WebMD without registration , many of the specific tools and services on the WebMD Web Sites require that you register with WebMD .
+Cookies and Web Beacons
 We collect Non-Personal Information about your use of the WebMD Web Sites and your use of other web sites through the use of Cookies and Web Beacons .
 Cookies are small data files that are stored on the hard drive of the computer you use to view a web site .
 Every computer that accesses the WebMD Web Sites is assigned a different cookie by WebMD .
@@ -329,6 +357,7 @@ If you do not want us to use the random number for the purposes for which we use
 Also , due to technical limitations , our TRUSTed Ads program is not implemented on our Mobile Device Apps and if you are using an IOS device , on our mobile optimized sites .
 Because some of the content on our Mobile Device Apps direct your mobile device to our website you will be exposed to the cookies that we use and to third party cookies that may be contained in advertisements that we do not control and will be unable to delete any of these cookies with your mobile device .
 Therefore , if you do not want to use these cookies when you use your mobile device you should not use our Mobile Device Apps and you should set your mobile device to reject cookies when you use our mobile optimized sites .
+Non-
 Personal Information Collected by Third Parties
 Not Acting on WebMD 's Behalf We work with third parties to display advertising that reflects the interests and preferences of our user community .
 Sponsors or advertisers on the WebMD Web Sites may use their own Cookies , Web Beacons or other online tracking technologies in the banner advertisements served on the WebMD Web Sites and in emails , special promotions or newsletters we send you .
@@ -370,10 +399,13 @@ By clicking the + symbol next to the name of a vendor in that window you will ge
 The WebMD Web Sites do not respond to web browser " do not track " signals .
 The TRUSTed Ads Program is not available on our Mobile Device Apps and if you are using an iOS device on our mobile optimized sites .
 Please see the Section entitled " Mobile Device Applications ( " Apps " ) and Mobile Optimized Sites. "  
+Important :
 If your device uses the Apple iOS Operating System , you will not see the Ad Choices icon on our mobile optimized sites ( such as www.m.webmd.com. )  
 Advertisements are not tailored based on browsing activity or interests for devices that access our mobile optimized web sites using the iOS operating system , including iPhone , iPad , and iPod Touch .
+How Information Collected About
 You Is Used Information collected by WebMD about you is used by WebMD to :  administer your account , provide you with access to particular tools and services , respond to your inquiries you send to us and to send you administrative communications about the WebMD Web Sites or services , obtain your feedback about the WebMD Web Sites or our offerings , statistically analyze user behavior and activity including how frequently areas of the site are visited and how many emails are received and opened , provide you with more relevant content or advertising both on the WebMD Web Sites or on other web sites that you visit after you leave the WebMD Web Sites ; and conduct research and measurement activities , including those described below .
 WebMD may combine Personal and Non-Personal Information collected by WebMD about you , and may combine this information with information from external sources .
+WebMD
 Health Manager has the ability to use Personal Information that you provide to send you personalized emails or secure electronic messages .
 During registration or at any time , you have the option of choosing whether or not you wish to receive emails pertaining to your health interests , including news , announcements , reminders and opportunities .
 The WebMD Health Manager email service requires an " opt-in " authorization from you .
@@ -392,6 +424,7 @@ In addition , we may disclose Personal Information as described below .
 In the event of a corporate change in control resulting from , for example , a sale to , or merger with , another entity , or in the event of a sale of assets or a bankruptcy , WebMD reserves the right to transfer your Personal Information to the new party in control or the party acquiring assets .
 In the event of such a change , your Personal Information will continue to be treated in accordance with this Privacy Policy unless any changes to the Privacy Policy are made in accordance with the section below that discusses Changes to This Privacy Policy .
 Disclosures to WebMD Operations and Maintenance Contractor
+WebMD
 contractors sometimes have limited access to your Personal and Non-Personal Information in the course of providing products or services to WebMD .
 These contractors include vendors and suppliers that provide us with technology , services , data analysis , research , advertising and marketing assistance and/or content for the operation and maintenance of the WebMD Web Sites .
 We contractually require that our operations and maintenance contractors : 1 ) protect the privacy of your Personal and Non-Personal Information consistent with this Privacy Policy and 2 ) not use or disclose your Personal or Non-Personal Information for any purpose other than providing the limited service or function for WebMD .
@@ -403,6 +436,7 @@ You should review the privacy policy posted on the other web site to understand 
 WebMD makes an effort to make it obvious to you when you leave our website and enter a Third Party Web Site , either by requiring you to click on a link or by notifying you on the site before you visit the third party site .
 In addition , if you see a phrase such as " Powered by " or " in association with " followed by the name of a company other than WebMD , then you are on a web site hosted by a company other than WebMD .
 How Do We Secure and Retain
+Your Information ?
 We take reasonable security measures to protect the security of your Personal Information .
 Despite WebMD 's efforts to protect your Personal Information , there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the Internet may be intercepted .
 The security of your Personal Information is important to us .
@@ -419,6 +453,7 @@ A parent or guardian , however , may use WebMD Health Manager to establish a per
 The parent or guardian is solely responsible for providing supervision of the minor 's use of WebMD Health Manager .
 The parent or guardian assumes full responsibility for ensuring that the registration information is kept secure and that the information submitted is accurate .
 The parent or guardian also assumes full responsibility for the interpretation and use of any information or suggestions provided through WebMD Health Manager for the minor .
+Contacting WebMD
 About Your Personal Information or Privacy
 Please send us an email by using the Contact Us link at the bottom of every page of our site if you have any questions about this Privacy Policy or the Personal Information we maintain about you .
 You can also contact WebMD 's Privacy Office at :  WebMD ,
@@ -440,17 +475,25 @@ If you are not satisfied with our response you can contact TRUSTe here .
 Please bear in mind that TRUSTe 's Watchdog service and certification is for the WebMD.com , MedicineNet.com , and the WebMD Health Manager sites and does not cover information that may be collected through other WebMD websites , mobile applications or mobile websites .
 Only information collected by WebMD.com , MedicineNet.com , or WebMD Health Manager should be reported in a TRUSTe Watchdog complaint .
 HONcode Seal WebMD.com , MedicineNet.com , and eMedicineHealth.com comply with the HONcode standard for trustworthy health information , which can be verified here .
+Effective Date :
 May 06 , 2013 2013
+WebMD , LLC .
+All rights reserved .
+About Us
 Who We Are What We Do For Our Users Awards and Recognition Policies Advertising Policy Corrections Policy Editorial Policy Privacy Policy Our Sponsors Terms and Conditions of Use Important Information & FAQs
 Community Overview Privacy FAQs Privacy Terms
 How We Protect Your Information Spam FAQs
 How to Change Your Profile Settings About Passwords Accreditation URAC
 Center Customer Care Contact Us Hot Topics Is Your Eczema Under Control ?
+Avoid Teeth Brushing Mistakes
+Eating Out ?
 Cut Calories , Heartburn 16 Tips for Clear Skin
+Top 12
 Dog Behavior Problems Generic Drugs :
 What You Need to Know Causes and Cures of Bad Breath Depression , Pain & Anxiety : What 's the Link ?
 How Diabetes Affects Your Teeth Ulcerative Colitis :
 Check Your Symptoms Find out how WebMD ensures the quality , accuracy and security of our information .
+WebMD Privacy Policy
 WebMD understands how important the privacy of personal information is to our users .
 This Privacy Policy will tell you what information we collect about you and about your use of WebMD and its services .
 It will explain the choices you have about how your personal information is used and how we protect that information .
@@ -472,6 +515,7 @@ Inaccurate information will affect your experience when using the WebMD Web Site
 Registration Access to some WebMD interactive tools and services may be limited to users who have registered .
 Some of our tools ( such as certain quizzes or calculators ) do not retain your Personal Information , while others ( such as Ovulation/Pregnancy Calendar ) store your Personal Information in accordance with this Privacy Policy and the authorization you provide at the time you submit Personal Information in order to use the tool .
 WebMD Health Manager , which allows you a secure place to gather , store , manage and share your Personal Information and provides tools and services to better manage your health and the health of your family , requires additional registration .
+WebMD
 Health Manager has the ability to use Personal Information that you provide to send you personalized emails or secure electronic messages .
 However , WebMD does not allow any third parties to place beacons or cookies or to gather any data about you in connection with your use of the WebMD Health Manager .
 Furthermore , WebMD does not use any information that you submit in connection with that tool to deliver any advertisements to you on or off of the WebMD Web Sites .
@@ -485,10 +529,12 @@ This Discussion link in any Health Community posting , and WebMD will send you a
 When you sign up for our email newsletters on the WebMD Web Sites or at any time , you can choose to opt out of receiving additional promotional newsletters from WebMD or our Sponsors .
 You can unsubscribe from a newsletter by :  Following the directions included at the bottom of the newsletter .
 Logging in to the WebMD Web Sites and unchecking the newsletters you no longer wish to receive under the My Profile section .
+Email a Friend
 If you use our Email a Friend service to tell a friend about a feature on the WebMD Web Sites or a newsletter , we will ask you for your name , your email address and your friend 's email address .
 We will automatically send your friend a one-time email inviting him or her to visit the site using your name and email address as the " from " email address .
 WebMD does not use your friend 's email information for any other purpose .
 We will only use the information you provide to send the requested email to your friend .
+Market Research
 From time to time , WebMD may conduct online research surveys through email invitations , pop-up surveys and online focus groups .
 When participating in a survey , we may ask you to enter Personal Information .
 The Personal Information you submit in a survey may be used by WebMD for research and measurement purposes , as described below , including to measure the effectiveness of content , advertising or programs .
@@ -506,10 +552,13 @@ In some cases , we may not be able to remove your Personal Information .
 Emails You Send to WebMD
 This Privacy Policy does not apply to information , content , business information , ideas , concepts or inventions that you send to WebMD by email .
 If you want to keep content or business information , ideas , concepts or inventions private or proprietary , do not send them in an email to WebMD .
+Non-Personal Information
 Even if you do not register with or provide any Personal Information to WebMD , we collect Non-Personal Information about your use of the WebMD Web Sites .
+Non-
 Personal Information means information that we can not use to identify or contact you .
 We may also acquire Non-Personal Information about our users from external sources .
 While you may use some of the functionality of WebMD without registration , many of the specific tools and services on the WebMD Web Sites require that you register with WebMD .
+Cookies and Web Beacons
 We collect Non-Personal Information about your use of the WebMD Web Sites and your use of other web sites through the use of Cookies and Web Beacons .
 Cookies are small data files that are stored on the hard drive of the computer you use to view a web site .
 Every computer that accesses the WebMD Web Sites is assigned a different cookie by WebMD .
@@ -527,6 +576,7 @@ If you do not want us to use the random number for the purposes for which we use
 Also , due to technical limitations , our TRUSTed Ads program is not implemented on our Mobile Device Apps and if you are using an IOS device , on our mobile optimized sites .
 Because some of the content on our Mobile Device Apps direct your mobile device to our website you will be exposed to the cookies that we use and to third party cookies that may be contained in advertisements that we do not control and will be unable to delete any of these cookies with your mobile device .
 Therefore , if you do not want to use these cookies when you use your mobile device you should not use our Mobile Device Apps and you should set your mobile device to reject cookies when you use our mobile optimized sites .
+Non-
 Personal Information Collected by Third Parties
 Not Acting on WebMD 's Behalf We work with third parties to display advertising that reflects the interests and preferences of our user community .
 Sponsors or advertisers on the WebMD Web Sites may use their own Cookies , Web Beacons or other online tracking technologies in the banner advertisements served on the WebMD Web Sites and in emails , special promotions or newsletters we send you .
@@ -568,10 +618,13 @@ By clicking the + symbol next to the name of a vendor in that window you will ge
 The WebMD Web Sites do not respond to web browser " do not track " signals .
 The TRUSTed Ads Program is not available on our Mobile Device Apps and if you are using an iOS device on our mobile optimized sites .
 Please see the Section entitled " Mobile Device Applications ( " Apps " ) and Mobile Optimized Sites. "  
+Important :
 If your device uses the Apple iOS Operating System , you will not see the Ad Choices icon on our mobile optimized sites ( such as www.m.webmd.com. )  
 Advertisements are not tailored based on browsing activity or interests for devices that access our mobile optimized web sites using the iOS operating system , including iPhone , iPad , and iPod Touch .
+How Information Collected About
 You Is Used Information collected by WebMD about you is used by WebMD to :  administer your account , provide you with access to particular tools and services , respond to your inquiries you send to us and to send you administrative communications about the WebMD Web Sites or services , obtain your feedback about the WebMD Web Sites or our offerings , statistically analyze user behavior and activity including how frequently areas of the site are visited and how many emails are received and opened , provide you with more relevant content or advertising both on the WebMD Web Sites or on other web sites that you visit after you leave the WebMD Web Sites ; and conduct research and measurement activities , including those described below .
 WebMD may combine Personal and Non-Personal Information collected by WebMD about you , and may combine this information with information from external sources .
+WebMD
 Health Manager has the ability to use Personal Information that you provide to send you personalized emails or secure electronic messages .
 During registration or at any time , you have the option of choosing whether or not you wish to receive emails pertaining to your health interests , including news , announcements , reminders and opportunities .
 The WebMD Health Manager email service requires an " opt-in " authorization from you .
@@ -590,6 +643,7 @@ In addition , we may disclose Personal Information as described below .
 In the event of a corporate change in control resulting from , for example , a sale to , or merger with , another entity , or in the event of a sale of assets or a bankruptcy , WebMD reserves the right to transfer your Personal Information to the new party in control or the party acquiring assets .
 In the event of such a change , your Personal Information will continue to be treated in accordance with this Privacy Policy unless any changes to the Privacy Policy are made in accordance with the section below that discusses Changes to This Privacy Policy .
 Disclosures to WebMD Operations and Maintenance Contractor
+WebMD
 contractors sometimes have limited access to your Personal and Non-Personal Information in the course of providing products or services to WebMD .
 These contractors include vendors and suppliers that provide us with technology , services , data analysis , research , advertising and marketing assistance and/or content for the operation and maintenance of the WebMD Web Sites .
 We contractually require that our operations and maintenance contractors : 1 ) protect the privacy of your Personal and Non-Personal Information consistent with this Privacy Policy and 2 ) not use or disclose your Personal or Non-Personal Information for any purpose other than providing the limited service or function for WebMD .
@@ -601,6 +655,7 @@ You should review the privacy policy posted on the other web site to understand 
 WebMD makes an effort to make it obvious to you when you leave our website and enter a Third Party Web Site , either by requiring you to click on a link or by notifying you on the site before you visit the third party site .
 In addition , if you see a phrase such as " Powered by " or " in association with " followed by the name of a company other than WebMD , then you are on a web site hosted by a company other than WebMD .
 How Do We Secure and Retain
+Your Information ?
 We take reasonable security measures to protect the security of your Personal Information .
 Despite WebMD 's efforts to protect your Personal Information , there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the Internet may be intercepted .
 The security of your Personal Information is important to us .
@@ -617,6 +672,7 @@ A parent or guardian , however , may use WebMD Health Manager to establish a per
 The parent or guardian is solely responsible for providing supervision of the minor 's use of WebMD Health Manager .
 The parent or guardian assumes full responsibility for ensuring that the registration information is kept secure and that the information submitted is accurate .
 The parent or guardian also assumes full responsibility for the interpretation and use of any information or suggestions provided through WebMD Health Manager for the minor .
+Contacting WebMD
 About Your Personal Information or Privacy
 Please send us an email by using the Contact Us link at the bottom of every page of our site if you have any questions about this Privacy Policy or the Personal Information we maintain about you .
 You can also contact WebMD 's Privacy Office at :  WebMD ,
@@ -638,17 +694,25 @@ If you are not satisfied with our response you can contact TRUSTe here .
 Please bear in mind that TRUSTe 's Watchdog service and certification is for the WebMD.com , MedicineNet.com , and the WebMD Health Manager sites and does not cover information that may be collected through other WebMD websites , mobile applications or mobile websites .
 Only information collected by WebMD.com , MedicineNet.com , or WebMD Health Manager should be reported in a TRUSTe Watchdog complaint .
 HONcode Seal WebMD.com , MedicineNet.com , and eMedicineHealth.com comply with the HONcode standard for trustworthy health information , which can be verified here .
+Effective Date :
 May 06 , 2013 2013
+WebMD , LLC .
+All rights reserved .
+About Us
 Who We Are What We Do For Our Users Awards and Recognition Policies Advertising Policy Corrections Policy Editorial Policy Privacy Policy Our Sponsors Terms and Conditions of Use Important Information & FAQs
 Community Overview Privacy FAQs Privacy Terms
 How We Protect Your Information Spam FAQs
 How to Change Your Profile Settings About Passwords Accreditation URAC
 Center Customer Care Contact Us Hot Topics Is Your Eczema Under Control ?
+Avoid Teeth Brushing Mistakes
+Eating Out ?
 Cut Calories , Heartburn 16 Tips for Clear Skin
+Top 12
 Dog Behavior Problems Generic Drugs :
 What You Need to Know Causes and Cures of Bad Breath Depression , Pain & Anxiety : What 's the Link ?
 How Diabetes Affects Your Teeth Ulcerative Colitis :
 Check Your Symptoms Find out how WebMD ensures the quality , accuracy and security of our information .
+Go WebMD Privacy Policy
 WebMD understands how important the privacy of personal information is to our users .
 This Privacy Policy will tell you what information we collect about you and about your use of WebMD and its services .
 It will explain the choices you have about how your personal information is used and how we protect that information .
@@ -661,6 +725,7 @@ If your employer or health plan account is no longer made available to you by yo
 Except where noted , statements in this Privacy Policy with respect to the WebMD Web Sites also apply to the WebMD Mobile Device Application ( or " App " ) including the WebMD Baby Mobile Device App for the iPhone , the iPad and mobile devices operating with the Android operating system .
 References to " WebMD " mean WebMD LLC , including any company that WebMD , LLC controls ( for example , a subsidiary that WebMD , LLC owns ) .
 WebMD may share information among its subsidiaries or web sites that it owns or controls , but information collected under this Privacy Policy is always protected under the terms of this Privacy Policy .
+Personal Information
 If you choose to register or update an existing member profile with WebMD or access certain functionality on the WebMD Web Sites , you may be required to submit Personal Information .
 Personal Information means information that we can use to identify or contact you , such as your name , address , telephone number or email address .
 Some of our interactive tools and services may request you to submit health information , which would also be considered Personal Information .
@@ -669,6 +734,7 @@ Inaccurate information will affect your experience when using the WebMD Web Site
 Registration Access to some WebMD interactive tools and services may be limited to users who have registered .
 Some of our tools ( such as certain quizzes or calculators ) do not retain your Personal Information , while others ( such as Ovulation/Pregnancy Calendar ) store your Personal Information in accordance with this Privacy Policy and the authorization you provide at the time you submit Personal Information in order to use the tool .
 WebMD Health Manager , which allows you a secure place to gather , store , manage and share your Personal Information and provides tools and services to better manage your health and the health of your family , requires additional registration .
+WebMD
 Health Manager has the ability to use Personal Information that you provide to send you personalized emails or secure electronic messages .
 However , WebMD does not allow any third parties to place beacons or cookies or to gather any data about you in connection with your use of the WebMD Health Manager .
 Furthermore , WebMD does not use any information that you submit in connection with that tool to deliver any advertisements to you on or off of the WebMD Web Sites .
@@ -682,10 +748,12 @@ This Discussion link in any Health Community posting , and WebMD will send you a
 When you sign up for our email newsletters on the WebMD Web Sites or at any time , you can choose to opt out of receiving additional promotional newsletters from WebMD or our Sponsors .
 You can unsubscribe from a newsletter by :  Following the directions included at the bottom of the newsletter .
 Logging in to the WebMD Web Sites and unchecking the newsletters you no longer wish to receive under the My Profile section .
+Email a Friend
 If you use our Email a Friend service to tell a friend about a feature on the WebMD Web Sites or a newsletter , we will ask you for your name , your email address and your friend 's email address .
 We will automatically send your friend a one-time email inviting him or her to visit the site using your name and email address as the " from " email address .
 WebMD does not use your friend 's email information for any other purpose .
 We will only use the information you provide to send the requested email to your friend .
+Market Research
 From time to time , WebMD may conduct online research surveys through email invitations , pop-up surveys and online focus groups .
 When participating in a survey , we may ask you to enter Personal Information .
 The Personal Information you submit in a survey may be used by WebMD for research and measurement purposes , as described below , including to measure the effectiveness of content , advertising or programs .
@@ -703,10 +771,13 @@ In some cases , we may not be able to remove your Personal Information .
 Emails You Send to WebMD
 This Privacy Policy does not apply to information , content , business information , ideas , concepts or inventions that you send to WebMD by email .
 If you want to keep content or business information , ideas , concepts or inventions private or proprietary , do not send them in an email to WebMD .
+Non-Personal Information
 Even if you do not register with or provide any Personal Information to WebMD , we collect Non-Personal Information about your use of the WebMD Web Sites .
+Non-
 Personal Information means information that we can not use to identify or contact you .
 We may also acquire Non-Personal Information about our users from external sources .
 While you may use some of the functionality of WebMD without registration , many of the specific tools and services on the WebMD Web Sites require that you register with WebMD .
+Cookies and Web Beacons
 We collect Non-Personal Information about your use of the WebMD Web Sites and your use of other web sites through the use of Cookies and Web Beacons .
 Cookies are small data files that are stored on the hard drive of the computer you use to view a web site .
 Every computer that accesses the WebMD Web Sites is assigned a different cookie by WebMD .
@@ -724,6 +795,7 @@ If you do not want us to use the random number for the purposes for which we use
 Also , due to technical limitations , our TRUSTed Ads program is not implemented on our Mobile Device Apps and if you are using an IOS device , on our mobile optimized sites .
 Because some of the content on our Mobile Device Apps direct your mobile device to our website you will be exposed to the cookies that we use and to third party cookies that may be contained in advertisements that we do not control and will be unable to delete any of these cookies with your mobile device .
 Therefore , if you do not want to use these cookies when you use your mobile device you should not use our Mobile Device Apps and you should set your mobile device to reject cookies when you use our mobile optimized sites .
+Non-
 Personal Information Collected by Third Parties
 Not Acting on WebMD 's Behalf We work with third parties to display advertising that reflects the interests and preferences of our user community .
 Sponsors or advertisers on the WebMD Web Sites may use their own Cookies , Web Beacons or other online tracking technologies in the banner advertisements served on the WebMD Web Sites and in emails , special promotions or newsletters we send you .
@@ -764,10 +836,12 @@ By clicking the + symbol next to the name of a vendor in that window you will ge
 The WebMD Web Sites do not respond to web browser " do not track " signals .
 The TRUSTed Ads Program is not available on our Mobile Device Apps and if you are using an iOS device on our mobile optimized sites .
 Please see the Section entitled " Mobile Device Applications ( " Apps " ) and Mobile Optimized Sites. "  
+Important :
 If your device uses the Apple iOS Operating System , you will not see the Ad Choices icon on our mobile optimized sites ( such as www.m.webmd.com. )  
 Advertisements are not tailored based on browsing activity or interests for devices that access our mobile optimized web sites using the iOS operating system , including iPhone , iPad , and iPod Touch .
 Information collected by WebMD about you is used by WebMD to : administer your account , provide you with access to particular tools and services , respond to your inquiries you send to us and to send you administrative communications about the WebMD Web Sites or services , obtain your feedback about the WebMD Web Sites or our offerings , statistically analyze user behavior and activity including how frequently areas of the site are visited and how many emails are received and opened , provide you with more relevant content or advertising both on the WebMD Web Sites or on other web sites that you visit after you leave the WebMD Web Sites ; and conduct research and measurement activities , including those described below .
 WebMD may combine Personal and Non-Personal Information collected by WebMD about you , and may combine this information with information from external sources .
+WebMD
 Health Manager has the ability to use Personal Information that you provide to send you personalized emails or secure electronic messages .
 During registration or at any time , you have the option of choosing whether or not you wish to receive emails pertaining to your health interests , including news , announcements , reminders and opportunities .
 The WebMD Health Manager email service requires an " opt-in " authorization from you .
@@ -785,6 +859,7 @@ In addition , we may disclose Personal Information as described below .
 In the event of a corporate change in control resulting from , for example , a sale to , or merger with , another entity , or in the event of a sale of assets or a bankruptcy , WebMD reserves the right to transfer your Personal Information to the new party in control or the party acquiring assets .
 In the event of such a change , your Personal Information will continue to be treated in accordance with this Privacy Policy unless any changes to the Privacy Policy are made in accordance with the section below that discusses Changes to This Privacy Policy .
 Disclosures to WebMD Operations and Maintenance Contractor
+WebMD
 contractors sometimes have limited access to your Personal and Non-Personal Information in the course of providing products or services to WebMD .
 These contractors include vendors and suppliers that provide us with technology , services , data analysis , research , advertising and marketing assistance and/or content for the operation and maintenance of the WebMD Web Sites .
 We contractually require that our operations and maintenance contractors : 1 ) protect the privacy of your Personal and Non-Personal Information consistent with this Privacy Policy and 2 ) not use or disclose your Personal or Non-Personal Information for any purpose other than providing the limited service or function for WebMD .
@@ -819,6 +894,7 @@ If we make any material changes to this policy we will notify you by email ( sen
 We encourage you to periodically review this website for the latest information on our privacy practices .
 If you do not accept the terms of this Privacy Policy , we ask that you do not register with us and that you do not use the WebMD Web Sites .
 Please exit the WebMD Web Sites immediately if you do not agree to the terms of this Privacy Policy .
+URAC :
 Accredited Health Web Site WebMD has been awarded e-Health accreditation from URAC , formerly the American HealthCare Accreditation Association .
 URAC is an independent accrediting body that has reviewed and approved WebMD 's WebMD.com Web sites for compliance with its more than 45 quality and ethics standards .
 To verify our compliance click the URAC logo .
@@ -830,7 +906,10 @@ If you are not satisfied with our response you can contact TRUSTe here .
 Please bear in mind that TRUSTe 's Watchdog service and certification is for the WebMD.com , MedicineNet.com , and the WebMD Health Manager sites and does not cover information that may be collected through other WebMD websites , mobile applications or mobile websites .
 Only information collected by WebMD.com , MedicineNet.com , or WebMD Health Manager should be reported in a TRUSTe Watchdog complaint .
 HONcode Seal WebMD.com , MedicineNet.com , and eMedicineHealth.com comply with the HONcode standard for trustworthy health information , which can be verified here .
+Effective Date :
 May 06 , 2013 2013
+WebMD , LLC .
+All rights reserved .
 The National Library of Medicine ( NLM ) provides this Web site as a public service .
 We do not collect any personally identifiable information ( PII ) about you when you visit our Web sites unless you choose to provide that information to us .
 We do collect some data about your visit to our Web site to help us better understand how the public uses the site and how to make it more helpful .
@@ -865,6 +944,7 @@ The OMB Memo 10-22 Guidance defines our use of persistent cookies as " Usage Tie
 This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected .
 For example , NLM uses persistent cookies to enable a PubMed retrieval system feature called " MyNCBI. "  
 The persistent cookie retains user preferences such as search result filters , LinkOut displays , institutional icon links , document delivery services , etc.
+across user sessions .
 Users may opt out of the persistent cookie selection in their MyNCBI settings at any time .
 NLM also uses persistent cookies to avoid repeated invitations to take the American Customer Satisfaction Inventory ( ACSI ) survey .
 The persistent cookies that block repeated survey invitations expire in 90 days .
@@ -912,7 +992,10 @@ USA.gov and Bit.ly URL shortening services .
 The shorter URLs are shared in our e-mail messages , Twitter feeds , and on NLM 's Facebook pages .
 The services collect data about how often users click on these shortened URLs .
 The analytics data is provided by Go.
+USA.Gov and Bit.ly .
 This data does not provide any personally identifiable information about the visitors who opened NLM 's shortened links .
+The Go.
+USA.Gov
 Privacy Statement is available at https : //go.usa.gov/policies .
 The Bit.ly Privacy Policy is available at : http : //bit.ly/pages/privacy .
 NLM has multiple Facebook pages where we share information about NLM news , program activities , and other items that may be of interest to you .
@@ -1015,6 +1098,9 @@ The ad is only identified to Facebook by the numeric code .
 Facebook does not receive information that identifies the product or the advertiser .
 Facebook , in turn , discloses only aggregate , de-identified information to Nielsen and the advertiser , not any personally identifiable information from your Facebook profile .
 You can learn more about this program and find out how to opt out here :
+https :
+//www.facebook.com/help/ ?
+faq=211774365532736#
 What-is-the-Nielsen-partnership-with-Facebook-and-how-does-it-affect-me and here : http :
 //www.nielsen-online.com/privacy.jsp ?section=leg_scs .
 Note that Google , as a third party vendor , uses cookies to serve ads on our site .
@@ -1050,6 +1136,7 @@ We may need to update our privacy policy as technology changes and Mayo Clinic e
 If we make significant changes to the privacy policy , we 'll post a prominent message on our websites .
 Security and Privacy Officer MayoClinic.com 200
 First St. SW Rochester ,
+MN 55905
 If you 've contacted the website about a privacy-related concern and you do not believe your problem has been addressed , you may file a complaint with the Mayo Clinic chief security officer by calling the Mayo Clinic general number at 507-284-2511 and asking for the chief security officer .
 This policy was last updated July 2013 .
 MyFitnessPal , Inc. ( hereinafter , " MyFitnessPal " ) is committed to respecting the privacy rights of users of the Website and MyFitnessPal mobile phone applications ( the " Applications " ) .
@@ -1059,8 +1146,10 @@ This Privacy Policy is only applicable to the Website and Applications and does 
 For additional information , see the section concerning Third-Party Websites/Applications , below .
 BY USING THE WEBSITE AND/OR APPLICATIONS , YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD , AND AGREE TO THE TERMS OF , THIS PRIVACY POLICY .
 IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY , YOU MAY NOT USE THE WEBSITE AND/OR APPLICATION .
+Traffic Data .
 MyFitnessPal automatically gathers information of the sort that browsers automatically make available , including : ( i ) IP addresses ; ( ii ) domain servers ; ( iii ) types of computers accessing the Website ; and ( iv ) types of Web browsers accessing the Website ( collectively " Traffic Data " ) .
 Traffic Data is anonymous information that does not personally identify You .
+Cookies .
 A " Cookie " is a string of information that a website stores on a user 's computer , and that the user 's browser provides to the website each time the user submits a query to the website .
 The purpose of a Cookie is to identify the user as a unique user of the Website .
 MyFitnessPal uses Cookies to customize Your experience on the Website to Your interests , to ensure that You do not see the same advertisements or informational messages repeatedly , and to store Your password so You do not have to re-enter it each time You visit the Website .
@@ -1068,10 +1157,12 @@ In addition , MyFitnessPal may use Cookies , and other methods , to store and re
 For additional information on MyFitnessPal 's uses of Cookies , see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies , below .
 IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER , YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE , WITH THE UNDERSTANDING
 THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES .
+Web Beacons . "
 Web Beacons " ( also known as clear gifs , pixel tags or web bugs ) are tiny graphics with a unique identifier , similar in function to Cookies , and are used to track the online movements of web users or to access Cookies .
 Unlike Cookies which are stored on the user 's computer hard drive , Web Beacons are embedded invisibly on web pages ( or in e-mail ) .
 Web Beacons may be used to deliver or communicate with Cookies , to count users who have visited certain pages and to understand usage patterns .
 For additional information on MyFitnessPal 's uses of Web Beacons , see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies & Web Beacons , below .
+Mobile Device Data .
 When users download , install and use the Applications on their mobile phone or other wireless telecommunications device , MyFitnessPal automatically gathers information , including without limitation , carrier providers , a unique device identifier , geo-location information ( if allowed by the user ) , the types of mobile devices accessing the Application , and the types of operating systems accessing the Applications ( collectively , " Mobile Device Data " ) .
 A unique device identifier is a string of alphanumeric characters ( similar to a serial number ) used to uniquely identify and distinguish each mobile phone or other wireless communications device .
 Location services can be enabled or disabled at anytime , through the mobile device settings .
@@ -1084,11 +1175,15 @@ We do not share your non-public Personal Information with these parties , but we
 The collection of this information by third-parties is subject to such third-parties ' privacy policies .
 For additional information , see the section concerning Third-Party Websites/Applications , below .
 With regards to advertising on the Website , to learn more about behavioral advertising practices or to opt-out of this type of advertising , visit http : //www.networkadvertising.org/choices , http : //www.aboutads.info/choices , and http : //opt.jumptap.com/
+optout/opt ?
+jt .
+Personal Information .
 You will be asked to provide MyFitnessPal certain information related to You ( " Personal Information " ) .
 Personal Information includes , without limitation : ( 1 ) " Contact Data " ( personally identifiable information about You , such as Your name and email address , as well as Your friends and contacts , if you enable access to Your contacts and address book information ) ; and ( 2 ) " Demographic Data " ( personal information about You ( but does n't specifically identify You ) , such as Your gender , birthday , zip code , country , height , weight , lifestyle and exercise frequency ) ; and ( 3 ) " Fitness Data " ( information about Your use of the Services ( but does n't specifically identify You ) , such as Your caloric intake , nutritional statistics , fitness activity , and weight loss/gain ) .
 The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile , providing the Website and/or Applications and related services , monitoring and improving the content and usage of the Website and/or Applications , interacting with the Website and/or Applications and with your friends and other members , to find and connect with Your friends and other members ( when instructed by You ) , customizing the advertising and content you see , communicating with you about new features and other news , and any other purpose for which the information was collected .
 We may also draw upon this Personal Information in order to adapt the Website and/or Applications to your needs , to research the effectiveness of our Website and/or Applications , and to develop new tools for our members .
 You are under no obligation to provide Personal Information , however , not providing this information may prevent You from using certain features of the Services .
+Third Party Services .
 If you create an account using Your login/ID from a Third Party Service , like Facebook , MyFitnessPal will use Your login/ID to access and collect the information that Your privacy settings on that Third Party Service permits MyFitnessPal to access so that MyFitnessPal can create Your account and connect You with Your friends .
 Information You Make Public .
 Certain portions of the Website and Applications are open to any viewer , such as our community forums and Your personal profile .
@@ -1105,14 +1200,18 @@ In addition , MyFitnessPal may share Traffic Data and Mobile Device Data and inf
 Personal Information Contact Data .
 MyFitnessPal uses Your Contact Data to send You information about MyFitnessPal and MyFitnessPal 's products and services , and to contact You when necessary in connection with the Services .
 MyFitnessPal uses Your Contact Data ( when instructed by You ) to connect You with Your friends and other members with whom You want to connect with , according to the preferences set in Your account .
+Demographic Data .
 MyFitnessPal uses Your Demographic Data to customize and tailor Your experience on the Website and/or Applications .
 As with Traffic Data and Mobile Device Data and information gathered using Cookies and Web Beacons , from time to time MyFitnessPal may release or share Demographic Data with third parties in anonymous form and/or in the aggregate , for industry analysis , research , demographic profiling and other similar purposes .
 In addition , MyFitnessPal shares anonymized Demographic Data with its advertisers and marketing partners so that such third-parties may provide You with advertisements tailored to Your interests .
 To opt-out of sharing your anonymized and Demographic Data with our advertising and marketing partners , visit http : //www.networkadvertising.org/choices , http : //www.aboutads.info/choices , and http : //opt.jumptap.com/optout/opt ?
+jt .
+Fitness Data .
 MyFitnessPal uses Your Fitness Data to provide , personalize and improve Your experience on the Website and/or Applications .
 As with Demographic Data and other data gathered through the Service , MyFitnessPal may release or share Fitness Data with third parties in anonymous form
 and/or in the aggregate , for statistical analysis , research , demographic profiling and other similar purposes .
 In addition , MyFitnessPal may share your Fitness Data along with some of Your Demographic Data , in anonymous form and in the aggregate , with other MyFitnessPal users so that You and other users can compare their own personal fitness , health and wellness situation relative to the entire MyFitnessPal community .
+Other Disclosure Practices
 Except as otherwise provided in this Privacy Policy , and when You otherwise give permission or under the following circumstances , MyFitnessPal will not share Your Personal Information with third parties .
 Disclosure in Connection with Services .
 MyFitnessPal discloses Personal Information to those who help it provide services , including those who perform technical , administrative and data processing tasks such as hosting , billing , fulfillment , and data storage and security .
@@ -1158,7 +1257,9 @@ This policy also sets forth the terms and conditions of your use of the website 
 Mercola.com takes every reasonable precaution to protect our users ' personal information .
 When users submit sensitive information via the Mercola.com website , their information is protected both online and off-line .
 Contents Your Consent Notification of Changes Opt-Out or Termination of User
+Accounts Contact Information Security
 The Information We Collect Children under 13 Log Files
+The Way
 We Use Information Newsletter Email-A-Friend Links Third Party Advertising Unsolicited Ideas
 Intellectual Property Copyright Infringement Policy for Claims under the DMCA Warranties and Warranty Disclaimer Limitation of Liability and Liability Disclaimer Indemnification
 Miscellaneous By using the Website , you consent to the collection and use of certain information in the manner we describe and agree to be bound by the terms of use as set forth herein .
@@ -1230,7 +1331,9 @@ Except for that information which is in the public domain or for which you have 
 If you believe that any Content has been copied and posted on the Mercola website by Mercola or any third party in a manner that constitutes copyright or trademark infringement , please provide our Copyright Agent with the following information : an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest ; a description of the copyrighted work that you claim has been infringed ; a description of where the material that you claim is infringing is located on the Website ; your address , telephone number , and email address ; a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner , its agent , or the law ; a statement by you , made under penalty of perjury , that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner 's behalf .
 Mercola.com 's Copyright Agent for notice of claims of copyright infringement under the DMCA can be reached as follows :  Mercola.com Customer Service 3200 W. Higgins Road Hoffman Estates ,
 IL 60169 Mercola will use reasonable commercial efforts to maintain the functionality and availability of the services ; however the services are provided to you " AS IS " without any warranty of any kind .
+TO THE FULLEST
 EXTENT ALLOWED BY LAW , MERCOLA.COM HEREBY
+DISCLAIMS
 ALL WARRANTIES , EXPRESSED OR IMPLIED , WITH RESPECT TO THE WEBSITE , ITS CONTENT , PRODUCTS AND SERVICES INCLUDING WITHOUT LIMITATION TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE .
 You agree that your use of the Website is done entirely at your own risk .
 Mercola does not warrant that your use of the Website will be uninterrupted or error free .
@@ -1241,8 +1344,10 @@ and/or Members or to any other person 's computer related to or resulting from p
 Mercola makes no warranties and shall have no liability for any claim of copyright , trademark or patent infringement based on your use of or combination of any third party product or software with the services , or any part thereof , ( unless authorized in writing by Mercola ) if such infringement would have been avoided by the use of the services without the use of other software , hardware or products .
 MERCOLA AND ITS AGENTS , REPRESENTATIVES , PARTNERS , SUPPLIERS OR LICENSORS SHALL NOT BE LIABLE TO YOU FOR AND DAMAGES OR LOSS
 ARISING FROM YOUR USE OF THE SERVICES , INCLUDING WITHOUT LIMITATION TO INCIDENTAL , CONSEQUENTIAL , OR OTHER INDIRECT DAMAGE , WHETHER BASED ON TORT , BODILY INJURY , DEATH , LOST REVENUE
+OR
 OTHERWISE , REGARDLESS OF WHETHER MERCOLA WAS ADVISED OF THE POSSIBILITY OF SUCH LOSSES IN ADVANCE AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED OR EXCLUSIVE REMEDY OF ANY KIND .
 NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN ,
+MERCOLA.COM 'S LIABILITY
 TO YOU FOR ANY CAUSE WHATSOEVER , AND REGARDLESS OF THE FORM OF THE ACTION , WILL AT
 ALL TIMES BE LIMITED TO THE AMOUNT PAID ,
 IF ANY , BY YOU TO MERCOLA.COM FOR THE SERVICES .
@@ -1258,6 +1363,7 @@ TRUSTe truste-logoMercola.com is a Participant in the TRUSTe Privacy Seal Progra
 TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world .
 As this Web site wants to demonstrate its commitment to your privacy , it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe .
 If you have questions or concerns regarding this statement , you should first contact us at http :
+//support.mercola.com .
 If you do not receive acknowledgment of your inquiry , or if your inquiry has not been satisfactorily addressed , you should then contact TRUSTe at http : //www.truste.org
 /consumers/watchdog_complaint.php .
 TRUSTe will then serve as a liaison with the Web site to resolve your concerns .
@@ -1265,11 +1371,14 @@ Mercola Health Resources , LLC , Vitamins & Food Supplements , Hoffman Estates ,
 help keep you safe from identity theft , credit card fraud , spyware , spam , viruses and online scams Click for company profile Subscribe to Dr. Mercola 's Natural Health Newsletter :
 Inside Mercola.com About Dr. Mercola Articles Contact Us
 Dr. Mercola 's Clinic En Espanol Press Room Special Reports Video Library Terms of Use Privacy Policy Media
+Inquiries
 Mercola Social Responsibility Products Air Purifier Bath Care Cookware Dental Care Feminine Care Krill Oil Organic India Power Plate Probiotics Productos Protein Powder Skin Care Tanning Beds Vision Fitness Water Filters
+All Products
 Special Info Sites Aspartame Cancer Fitness Fluoride Fructose/Sugar GMO Mercury Nutritional Typing Pets Vaccines Vitamin D Shopping Autoship Program FAQs Online Shopping Premier Program Return Policy Shipping Policy Wholesale Program
 * These statements have not been evaluated by the Food and Drug Administration .
 This product is not intended to diagnose , treat , cure or prevent any disease .
 If you are pregnant , nursing , taking medication , or have a medical condition , consult your physician before using this product .
+Disclaimer :
 The entire contents of this website are based upon the opinions of Dr. Mercola , unless otherwise noted .
 Individual articles are based upon the opinions of the respective author , who retains copyright as marked .
 The information on this website is not intended to replace a one-on-one relationship with a qualified health care professional and is not intended as medical advice .
@@ -1280,9 +1389,12 @@ This content may be copied in full , with copyright , contact , creation and inf
 If any other use is desired , permission in writing from Dr. Mercola is required .
 The World 's # 1 Natural Health Website claim is based upon Alexa Natural Health Website rankings .
 Copyright 1997-2013 Dr. Joseph Mercola .
+All Rights Reserved .
+Privacy Policy
 For the purposes of this privacy policy , the terms " we " , " us " , " our " and " Drugs.com " refer to our Web site www.drugs.com .
 The terms " You " and " End-User " refer to You as a user of this Site .
 For third party advertising information and opt-out options please click here .
+TRUSTe TRUSTe
 online privacy certification Drugs.com has been awarded TRUSTe 's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe 's program requirements including transparency , accountability and choice regarding the collection and use of your personal information .
 The TRUSTe program does not cover information that may be collected through downloadable software .
 TRUSTe 's mission , as an independent third party , is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions .
@@ -1317,6 +1429,7 @@ Our third party tracking utility partner employs a software technology called cl
 Clear gifs are tiny graphics with a unique identifier , similar in function to cookies , and are used to track the online movements of Web users .
 In contrast to cookies , which are stored on a user 's computer hard drive , clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence .
 We do not tie the information gathered by clear gifs to our customers ' personally identifiable information .
+Flash LSOs
 We use local shared objects , also known as Flash cookies , to store your preferences such as volume control or high game score , or display content based upon what you view on our site to personalize your visit .
 Third Parties , with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity , use Flash cookies to collect and store information .
 Flash cookies are different from browser cookies because of the amount of , type of , and how data is stored .
@@ -1339,6 +1452,7 @@ If you have any questions about security on our Web site , you can send an email
 Refer a Friend If you choose to use our referral service to tell a friend about our site , we will ask you for your friend 's name and email address .
 We will automatically send your friend a one-time email inviting him or her to visit the site .
 Drugs.com does not store this information .
+Registration
 In order to use some areas of this web site , you must first complete the registration form .
 During registration you are required to provide contact information such as your name , age , email address , preferred username , password and preferred subscriptions .
 We will only use this information to contact you about the services on our site in which you have expressed interest .
@@ -1347,6 +1461,7 @@ If your personally identifiable information changes , or if you no longer desire
 E-mail Disclosure If you subscribe to receive e-mail , we will only send messages to notify you about the services on our site in which you have expressed interest .
 These e-mails may contain an occasional sponsor message .
 E-mail messages sent to you will always contain at least one clearly visible link to unsubscribe .
+Mednotes
 To store a medication profile using Drugs.com Mednotes , you will need to create an account .
 When You create a Drugs.com Account , we ask for your email address and a password , which is used to protect your account from unauthorized access .
 You control who can access the information stored in Mednotes .
@@ -1361,10 +1476,12 @@ We are not responsible for the personally identifiable information you choose to
 Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use .
 Data Retention Drugs.com may retain personally identifiable information for the purpose of improving your user experience as a site member .
 This data is removed when your account with Drugs.com is closed , terminated or upon request .
+Opting Out
 We provide you the opportunity to ' opt-out ' of having your personally identifiable information used for certain purposes , when we ask for this information .
 For example , if you set up an account but do not wish to receive any additional marketing material from us , you can indicate your preference during signup .
 If you no longer wish to receive our newsletters , you may opt-out of receiving them by following the instructions included in each newsletter , by signing into your account or by emailing us .
 For third party advertising information and opt-out options please click here .
+Removal
 To request the removal of publicly displayed personally identifiable information , you may contact us through our support system .
 In order for us to consider your request , you are required to include your account name and links to any page ( s ) where you believe any such personally identifiable information exists .
 For each instance , you must also provide clear instructions describing the exact position/location of the personally identifiable information on any page .
@@ -1457,10 +1574,12 @@ We are not responsible for the personally identifiable information you choose to
 Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use .
 Data Retention Drugs.com may retain personally identifiable information for the purpose of improving your user experience as a site member .
 This data is removed when your account with Drugs.com is closed , terminated or upon request .
+Opting Out
 We provide you the opportunity to ' opt-out ' of having your personally identifiable information used for certain purposes , when we ask for this information .
 For example , if you set up an account but do not wish to receive any additional marketing material from us , you can indicate your preference during signup .
 If you no longer wish to receive our newsletters , you may opt-out of receiving them by following the instructions included in each newsletter , by signing into your account or by emailing us .
 For third party advertising information and opt-out options please click here .
+Removal
 To request the removal of publicly displayed personally identifiable information , you may contact us through our support system .
 In order for us to consider your request , you are required to include your account name and links to any page ( s ) where you believe any such personally identifiable information exists .
 For each instance , you must also provide clear instructions describing the exact position/location of the personally identifiable information on any page .
@@ -1478,28 +1597,36 @@ If we make material changes to this policy , we will notify you here , by email 
 Updated : June 14th , 2013
 Privacy Policy We take your privacy seriously .
 We only ask you to provide information that we need in order to deliver the service or information you have requested .
+a )
 At this website , your personally identifiable information is collected from you when you use the website to perform certain tasks , such as : i )
 When you post or comment on an article or blogpost or send email to us ( such as your name and email address ) .
+ii )
 When you send email to a professional listed in one of the professional directories ( such as your name and email address ) or when you email a friend about a professional ( such as your name and email address and your friend 's name and email address ) .
 Please note that we do not read or retain the message in your e-mail . iii )
 When you call a professional using their number listed in one of the professional directories ( such as information about where the call was placed ) .
+iv )
 When you fill out a self-assessment or take a self-test .
 The assessments and tests are administered by third-parties which have its own Privacy Policies concerning information they may collect from users .
 Please refer to their policies via the Privacy Policy links on the assessment and test pages .
 v ) When you subscribe to a publication ( such as your name and address ) .
+vi )
 When you purchase something from us .
 Your payment information is submitted directly to the credit card processor , who is responsible for its use and security .
+vii )
 When you register to be listed in our directories .
 We collect information that will be used to create your profile in the directory , such as name , address , email address , as well as well as such professional information as your qualifications , certifications , the demographic region in which you practice , and your fields of specialty .
 We collect additional information for our records that may not be displayed as part of your directory profile , but is necessary to check the information you provide or accept payment from you .
+viii )
 When you open an email communication from us in your email program , we may use a software technology called web beacons that to let us know which emails have been opened by the recipients .
 This allows us to know how well customers respond to certain communications and the effectiveness of our marketing campaigns .
+b )
 In addition , like most sites , we maintain logs of site usage for purposes such as to evaluate our users ' interest level in areas of the website ,
 which and how many pages they look at
 , how long they stay on the website , and what Web browsers are used .
 This data is tracked in aggregate form , not at an individual user level , and is not uniquely identifying .
 The aggregate level data may be shared with third parties and the public .
 We only use information we collect to provide you the services on our website that you request .
+a )
 We share information with third parties only when needed to deliver to you products or services that you request .
 For example , we share information from publication subscribers with the company that mails the magazines and information from those who purchase something from us with the credit card payment processing company .
 Some professionals wishing to list their services may have the information provided used to check with state licensing boards .
@@ -1508,9 +1635,11 @@ b ) We may use a software technology called " cookies " to create a personalized
 Cookies can not be used to find your name , email address , or anything that is uniquely identifying about you , unless you provide that information .
 We use cookies for those applications that require us to keep track of information to customize results .
 If you do n't have your browser set to accept cookies , certain areas of the website may not function properly .
+c )
 We use third-party advertising companies to serve ads when you visit our website .
 These companies may use information ( not including your name , address email address or telephone number ) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you .
 If you would like more information about this practice and to know your choices about not having this information used by these companies , click here .
+d )
 When you click on links and/or ad banners that take you to third-party websites , the third party may collect information about you at their Web site .
 The third party may have its own privacy policies that differ from ours .
 We encourage you to read the posted privacy statement whenever interacting with any website you visit .
@@ -1523,11 +1652,13 @@ We do our best to obtain these lists only from suppliers who collect their lists
 Please note that even if you are a registered customer of ours and have asked us not to use the information you provided to us to send you promotional material , a third-party marketing list supplier may still provide us with your name and address .
 As a result , you may receive the promotional material sent by us to others on the supplier 's list .
 If you have received a promotion from us and do not wish to receive future promotions , please contact us at newsletters @
+psychologytoday.com
 Though we make every effort to preserve your privacy , we can not guarantee your privacy .
 Further , we may disclose personal information when required by law or where we have a good-faith belief that such action is necessary to comply with a judicial proceeding , a court order or legal process served on us .
 We may also disclose personal information in cooperation with a law enforcement request .
 We reserve the right to change this policy in accordance with the amendment policy in the website 's Terms of Use .
 Skip directly to searchSkip directly to A to Z listSkip directly to site contentSkip directly to page options CDC Home Search On this Page Information Collected and Stored Automatically Web measurement and customization technologies
+Use of Cookies
 You Can Opt Out or Disable Cookies
 If You Send Us Personal Information Intrusion Detection and Security Third-Party Websites and Applications
 Thank you for visiting the Centers for Disease Control and Prevention ( CDC ) website and for reviewing our Privacy Policy .
@@ -1535,6 +1666,7 @@ CDC is committed to maintaining the privacy of your personal information .
 With respect to the collection , use and disclosure of personally identifiable information ( PII ) CDC complies with applicable federal law .
 Our privacy policy is clear :  CDC does not collect any personally identifiable information ( PII ) when you visit our Websites unless you choose to provide that information to us .
 Any PII that you choose to provide is fully protected .
+Non-
 PII information related to your visit to our websites may be automatically collected and temporarily stored .
 Here is how we handle information about your visit to our website :  When you browse through any Website , certain information about your visit can be collected .
 If you do nothing during a visit to the CDC Website other than browse through the website , read pages or download information , certain data will be gathered and stored automatically about the visit .
@@ -1542,11 +1674,13 @@ This information does not identify you personally .
 We automatically collect and temporarily store only the following information about your visit :  the Internet domain ( for example , " xcompany.com " if a private Internet access account is used , or " yourschool.edu " if connecting from a university 's domain ) and IP address ( an IP address is a number that is automatically assigned to your computer when surfing the Web ) ;
 Operating System and information about the Web browser ( used when accessing the site ; the visit date and time ; the specific pages visited ; if www.cdc.gov is designated as a home page ; and the amount of data ( measured in number of bytes ) transmitted from CDC.gov to your computer .
 We use this information in the aggregate to measure the number of visitors to our site and its various sections , to enhance site performance , and to improve the overall customer service experience for our visitors by making it more useful .
+Back to Top
 All uses of Web measurement and customization technologies will comply with existing policies with respect to privacy and data safeguarding standards .
 Information Systems owned and operated by CDC are assessed using Privacy Impact Assessments ( PIAs ) posted for public view on the Department of Health and Human Services
 ( HHS ) Website ( http :
 //www.hhs.gov/pia/ ) .
 Groups of records that contain information about an individual and are designed to be retrieved by the name or other personal identifier linked to the individual are covered by the Privacy Act of 1974 , as amended ( 5 U.S.C .
+Section 552a ) .
 For these records , CDC Systems of Record Notices are published in the Federal Register and posted on the CDC Web site at : http : //www.cdc.gov/SORNnotice/ .
 CDC Websites use a variety of different Web measurement and customization technologies to collect and analyze the information with regard to users ' visits .
 Some pages on CDC.gov may include web content or functionality from third parties .
@@ -1580,7 +1714,9 @@ These multi-session cookies are stored on your computer and expire 1 year after 
 After 1 year , they are automatically deleted from your computer ; however , you may also choose to delete persistent cookies from your computer at any time .
 We use persistent cookies to collect non-PII data about users who frequently visit our Websites , and to test variations of our site design and content to optimize our Web pages .
 In the Office of Management and Budget
+( OMB )
 Memo 10-22 Guidance , our use of persistent cookies is defined as " Usage Tier 2 Multi-session without Personally Identifiable Information ( PII ) , " which " encompasses any use of multi-session Web measurement and customization technologies when no PII is collected. "  
+Back to Top
 If you do not wish to have session or persistent cookies placed on your computer at all , you can choose not to accept cookies from the CDC Website by changing your browser settings .
 By not accepting cookies you will still have access to all information , and resources on our Websites , identical to that received by individuals choosing to accept the cookies .
 Instructions to opt out or disable cookies using some of the most popular browsers are available at http : //www.usa.gov/optout_instructions.shtml .
@@ -1598,10 +1734,12 @@ If , in order to accomplish its mission , CDC operates a system of records from 
 If applicable , such Notice must state the following five criteria :  The purpose for which CDC is collecting your information CDC 's legal authorization to collect your information The Routine Uses for which your information will be disclosed outside of CDC
 Whether providing your information is voluntary or legally mandatory The effects , if any , of nondisclosure of your information should you choose not to provide it .
 For further information about CDC privacy policy , please contact the CDC Senior Official for Privacy at mailto : privacy @ cdc.gov , or call 770-488-8660 .
+Back to Top
 This site is maintained by the U.S. Government and is protected by various provisions of Title 18 of the U.S. Code .
 Violations of Title 18 are subject to criminal prosecution in Federal court .
 For site security purposes and to ensure that this service remains available to all users , CDC employs software programs to identify unauthorized attempts to upload or change information , or otherwise cause damage .
 Unauthorized attempts to upload or change information on this Website are strictly prohibited and may be punishable by law , including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996 .
+Back to Top
 In addition to CDC 's official website on www.cdc.gov , CDC uses social media and third-party ( non-CDC ) websites to share information and to engage the public .
 For example , there may be third-party applications and/or services linked to or embedded on www.cdc.gov to improve its functionality .
 Likewise , applications created by CDC may be embedded on third-party websites as a way to increase public awareness of CDC activities .
@@ -1623,22 +1761,27 @@ A-Z Index Site Map Policies Using this Site Link to Us
 All Languages CDC Mobile Contact CDC
 USA.gov : The U.S. Government 's Official Web PortalDepartment of Health and Human Services Centers for Disease Control and Prevention 1600 Clifton Rd.
 Atlanta , GA 30333 , USA 800-CDC-INFO ( 800-232-4636 )
+TTY : ( 888
 ) 232-6348 - Contact CDCINFO A-Z Index A B C D E F G H I J K L M N
 O P Q R S T U V W X Y Z #  Privacy Policy
 We are committed to protecting your privacy and we have prepared this Privacy Policy to describe to you our practices regarding the Personal Data we collect from users of our services .
 Who are we and how to contact us ?
 Hearst Rodale UK Limited ( Hearst-Rodale ) has its head office at : 72 , Broadwick Street , London ,
+W1F 9EP .
 The company is registered in England 00519122 , VAT Registration GB 626 914 329 .
 If you would like to contact us for any reason , please email us at dp @ hearst.co.uk
 and we will do our best to answer your questions .
 1.What information do we collect from you ?
+1.1
 How we collect Personal Data 1.2 Anonymous data collected via technology 1.3 Personal Data that we collect from you about others 2.How will we use the information we collect ?
+3.Do
 we share your Personal Data with other companies ?
 4.Changing your mind about marketing messages and keeping your details up-to-date 5.Other websites 6.Where is your information processed and how do we keep your Personal Data secure ?
 7.Access to your Personal Data 8.Questions regarding this Privacy Policy 9.Changes to this Privacy Policy Hearst Rodale collects Personal Data and Anonymous Data from you when you visit our sites or when you send us information or communications .
 Personal Data means data that allows someone to identify you , including , for example , your name , address , telephone and mobile numbers , e-mail address , as well as any information about you that is associated with or linked to , or could be linked to , any of the foregoing data .
 Anonymous Data means data that is not associated with or linked to your Personal Data ; Anonymous Data does not permit the identification of individual persons .
 We collect Personal Data and Anonymous Data , as described below .
+1.1
 How we collect Personal Data
 We collect Personal Data from you , such as your name , contact details , country of residence , zip code or post code , gender , and/or birth date when you register on one of our sites or when you choose to use the various services we provide on our sites .
 We also collect other types of Personal Data that you provide to us voluntarily , when , for instance , you make a purchase , respond to surveys and questionnaires , or enter a competition .
@@ -1664,6 +1807,7 @@ They help us to determine whether content on our sites is effective .
 We also use clear GIFs in HTML-based e-mails to let us know which e-mails have been opened and acted upon by recipients ( including any persons to which the e-mails have been forwarded ) .
 Clear GIFs on our sites collect only a limited set of information including a cookie number , time and date of a page view , and a description of the page on which the clear GIF resides .
 This information helps us assess the effectiveness of certain communications and marketing campaigns .
+1.3 Personal Data
 That We Collect from You About Others
 If you decide to invite a friend or family member to join any of our services , we will collect your name and e-mail address as well as your friend 's or family member 's e-mail address in order to send their e-mail .
 We will always ask your permission to mention your name when contacting your friend or family member .
@@ -1693,12 +1837,14 @@ If you would like to cease receiving these communications , you may unsubscribe 
 My Profile and updating your preferences .
 We offer you choices regarding the collection , use , and sharing of your Personal Data .
 You may proactively make such choices by visiting Edit
+My Profile .
 When you register on one of our sites , we will ask you if you want to receive future communications from us .
 You may indicate consent to receipt of these communications by ticking the box located on the registration form .
 Should you decide to stop receiving further communications from us , you will have the opportunity to opt-out by following the unsubscribe instructions provided in the e-mail you receive or by going to My Profile .
 If at any time you wish to subscribe to any communications from us , login to your account .
 Despite your indicated e-mail preferences , we may send you notice of any updates to our Terms of Use or Privacy Policy .
 You may change any of your contact information in your account online by visiting Edit
+My Profile .
 Be sure to include your full name and address in your opt-out request , in order to allow us to process your request .
 Note that we may retain changed or deleted information in our archives .
 Except as otherwise expressly provided in this Privacy Policy or on this website , only Hearst Rodale and its affiliate companies collect Personal Data through the services provided solely by Hearst Rodale ; this Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our services .
@@ -1725,10 +1871,12 @@ Except as provided elsewhere in this Privacy Policy , Hearst Rodale limits acces
 Even though Hearst Rodale has taken significant steps to ensure that your Personal Data is not intercepted , accessed , used , or disclosed by unauthorised persons , you should know that Hearst Rodale can not eliminate security risks associated with Personal Data .
 You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date .
 If you wish to see the information we hold about you , please contact us in writing : The Data Protection Compliance Officer Hearst Rodale UK Limited 72 Broadwick Street , London , W1F
+9EP
 We are entitled by law to charge a fee of 10 to meet our costs in providing you with details of the information we hold about you .
 We are also legally obliged to request you to provide us with identification so that we can be certain that you are entitled to receive the requested data .
 Hearst Rodale welcomes your comments or questions regarding this Privacy Policy .
 Please e-mail us at : dp @ hearst.co.uk .
+Dispute Resolution
 If you believe that Hearst Rodale has not adhered to this Privacy Policy , please contact us by e-mail at : dp @ hearst.co.uk .
 We will do our best to address your concerns .
 If you feel that your complaint has been addressed incompletely , we invite you to let us know for further investigation .
@@ -1756,6 +1904,8 @@ Analysis of this information may also help identify problem areas of the website
 Information is retained as long as necessary to perform useful analysis .
 For site security purposes and to ensure that USPTO Web services remain available to all users , USPTO monitors network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage .
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and subject to prosecution under the Computer Fraud and Abuse Act of 1986 and Title 18 U.S.C .
+Sec.
+1001 and 1030 .
 Information also may be used for authorized law enforcement investigations .
 The Office of Management and Budget Memorandum M-10-22 , Guidance for Online Use of Web Measurement and Customization Technologies defines conditions under which Federal agencies may use session and persistent cookies , and categorizes them in tiers to identify their characteristics .
 You may control permissions for cookies on this or any other website by adjusting your individual browser settings for customized privacy protection see http : //www.usa.gov/optout_instructions.shtml for helpful guidance .
@@ -1790,6 +1940,7 @@ No personal information is collected unless you choose to provide it as part of 
 Survey data is retained as long as needed to permit accurate analysis , produce summary reports , and monitor overall trends .
 If you choose not to participate in the survey , you are not prevented from using the USPTO website in any other way .
 If you wish to provide feedback without taking the survey , you may send e-mail directly to webmaster @
+uspto.gov .
 If you have an immediate concern , please refer to the Contact Us page on the USPTO website .
 See additional notes under Use of Cookies and Tracking Technologies , above .
 We are especially concerned about protecting the privacy of children .
@@ -1822,6 +1973,7 @@ Also , all patent application files will become available to the public upon the
 For patents , if you have questions about what information may be published and how to remove the material from documents you plan to submit to the USPTO , please call the Inventors Assistance Center at 1-800-786-9199 or 571-272-1000 .
 Trademark applications are available to the public within a week of their submission .
 For questions about public information on Trademark applications , please refer to the filing instructions or contact the Trademark Assistance Center at 1-800-786-9199 or via e-mail at TrademarkAssistanceCenter @
+uspto.gov .
 [ Change History ]  12/7/2010 - updated information concerning persistent cookies , external sites , and surveys .
 2/9/2011 - added information related to the use of Google Analytics and external sites .
 Your privacy on NHS Choices Personal data collected Navigation data IP address and the website you came from Personal information Includes your first name , last name , email address , postcode and other personal information you provide .
@@ -1846,155 +1998,3 @@ This information is then kept in our internet access logs .
 We collect information directly from you in a number of ways .
 One way is by using cookies .
 Cookies are small files of information that save and retrieve information about your visit to our site , such as how you entered our site , how you navigated through the site and what information was of interest to you .
-This information is collected for a number of reasons , for example , to help develop the website and associated services .
-The cookies we use identify you merely as a number .
-If you are uncomfortable about the use of cookies , you can disable them by changing the settings in the preferences or options menu in your internet browser .
-However , disabling cookies may affect our ability to provide services to you ; if certain cookies are disabled you may not be able to access the service .
-See our Cookies policy for more information on the cookies we use .
-We also collect information when you give it to us .
-For example , you may register to use the message-posting facility called ' Patient feedback ' .
-When we collect this type of information , we will notify you as to why we are asking for information and how this information will be used .
-It is completely up to you whether you provide it , but not providing information may affect our ability to provide services to you .
-The social media bookmarking sites that NHS Choices links to are third-party sites and NHS Choices does control the way these sites use your information .
-If you choose to access these sites using the links provided , the operators of these sites may collect information from you that may be used by them in accordance with their privacy policies , which may differ from ours .
-You should read their privacy policies carefully to find out what happens to any information that is collected by these services when you use them .
-Videos from NHS Choices - whether viewed on the website , in emails or embedded in third-party sites - are supplied ( streamed ) to users by a third-party company , Brightcove .
-A product called TubeMogul is used by Brightcove to compile statistics for NHS Choices , such as what videos have been watched and when ; it uses an anonymous tracking cookie and stores no personal data .
-For more information , see the Brightcove privacy policy and the TubeMogul privacy policy .
-Use of NHS Choices tools on third-party sites will be tracked .
-No personal data is collected by the tools .
-Information gathered by NHS Choices includes the user 's IP address , the web page a tool is accessed from , and how many times it is accessed .
-In some cases , tracking is used to show user journeys through a tool .
-This information is the sole property of NHS Choices and will not be shared with third parties .
-All NHS Choices tools store the number of times a user has visited the tool .
-Some tools also store state ' information so that when a user returns to a tool it is in the state ' they left it in .
-Information submitted as a part of NHS Choices content held on Twitter and Facebook will be subject to their privacy policies .
-For more information , see the Twitter privacy policy and the Facebook privacy policy We will hold the information for as long as we are providing you services .
-If you do not access the services provided by NHS Choices , for instance , open or click through one of the emails for more than a year , we will send you an email asking you to confirm that you wish to continue receiving NHS Choices emails .
-If you do not respond to this email within one month we will unsubscribe you .
-We will remove all personal information we hold relating to you , which you registered with us , within six months of you unsubscribing from NHS Choices .
-We hold this information for a further six months following unsubscription , as we may need to use it for statistical analysis or if you choose to resubscribe .
-Be assured that if you unsubscribe you will not receive further information from us .
-As a government department , we do not share data with other organisations unless the law permits us to do so .
-We do not sell individuals ' information .
-We will share it only with our authorised Data Processors , who must act at all times on our instructions as the Data Controller under the Data Protection Act 1998 .
-Before you submit any information , we will notify you as to why we are asking for specific information and it is up to you whether you provide it .
-You are entitled to know whether we hold information about you and , if we do , to have access to that information and require it to be corrected if it is inaccurate .
-You can do this by contacting the Data Protection Officer , Department of Health , Skipton House , 80 London Road , London , SE1 6LH .
-We take appropriate steps to maintain the security of your data on our service .
-The open nature of the internet means that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended .
-Our intention is that this should not happen and we take measures to ensure that it does not .
-Sports Illustrated PRIVACY POLICY Table of Contents
-How We Use the Information Privacy Options Your California Privacy Rights : Notice to California Customers Collection of Information by Third-Party Sites and Sponsors Cookies
-Our Commitment to Security Accessing , Correcting , and Deleting
-Your Personal Information Retention of Personal Information Special Note for Parents Changes to this Privacy Policy
-Us Safe Harbor Privacy Policy European Union Privacy Information
-For citizens of member countries of the European Union , and Switzerland , Norway , Lichtenstein , Iceland , Australia , and New Zealand
-This is the Privacy Policy which applies to you if you live outside the European Union , Switzerland , Norway , Lichtenstein , Iceland , Australia , New Zealand , and Canada .
-Thank you for visiting Sports Illustrated , or using our mobile device applications ( the " Apps " ) or other services ( together with the Apps , the " Services " ) , Services within the network of Time Inc. and its subsidiaries , each of which have adopted this Privacy Policy .
-Your privacy is important to us .
-To better protect your privacy , we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries .
-Click here for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice .
-Through Time Inc. publications , websites , and other media , you can order publications and products ; engage in various activities like entering contests or sweepstakes , playing games , taking quizzes , voting in polls or otherwise expressing an opinion ; subscribe to one of our services , such as newsletters ; or participate in one of our online forums or communities .
-Your personally identifiable information may be required to engage in these activities as well as to receive products and services that you may have requested .
-The types of personally identifiable information that may be collected at these pages and elsewhere include but are not limited to : name , address , gender , e-mail address , telephone number , fax number and credit or debit card information .
-We may also collect information about your personal or professional interests and use of or opinions about various products , programs and services .
-For instance , we may ask you to identify your job or industry to qualify you for free business magazines .
-At some Time Inc. sites and through certain promotions , you can submit information about other people .
-For example , you might submit a person 's name , mailing and/or e-mail address to send a gift or electronic greeting card .
-The types of personally identifiable information that may be collected about other people at these pages include : recipient 's name , address , e-mail address and telephone number .
-We may also collect certain non-personally identifiable information when you visit our web pages or use our applications , such as the type of browser and operating system you are using , your IP address , your device identifiers , your Internet or wireless service provider , and location-based information .
-back to top We may use the information you provide about yourself or others to fulfill requests for our publications , products or services , to respond to inquiries about offerings and to offer other products , programs or services that may be of interest .
-We may combine information we receive with outside records and share such information with third parties for use on our behalf to enhance our ability to market to you those products or services that may be of interest to you .
-We may disclose personally identifiable information that we receive from you and from third party sources to third parties whose practices are not covered by this privacy statement ( e.g. , other marketers , magazine publishers , retailers , participatory databases , and non-profit organizations ) that want to market products or services to you .
-When you request a magazine , service , or other product , we will forward the information you give us to the publisher or provider to the extent necessary to fulfill your request .
-They may contact you with special offers of possible interest .
-We sometimes use this information to communicate with you , such as to notify you when you have won one of our contests or sweepstakes , when we make changes to subscriber agreements , to fulfill a request by you for an online newsletter , or to contact you about your account .
-If you choose to submit content ( e.g. , a " letter to our editors " or an online review ) , we may publish your name , screen name and other information you have provided to us .
-You hereby consent to this .
-The information we collect in connection with our online forums and communities is used to provide an interactive experience .
-We use this information to facilitate participation in these online forums and communities and , from time to time , to offer you products , programs , or services .
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites , and to enable us to customize your Internet experience .
-We also may use this information to analyze site usage , as well as to offer you products , programs , or services .
-We will disclose information we maintain when required to do so by law , for example , in response to a court order or a subpoena .
-We also may disclose such information in response to a law enforcement agency 's request .
-Agents and contractors of Time Inc. that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by , for example , not using the information for any purpose other than to carry out the services they are performing for Time Inc .
-We may transfer your personally identifiable information to other Time Inc. offices for internal management and administrative purposes on our behalf .
-Your personal data will be transferred to other Time Inc. offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit .
-To the extent not prohibited under applicable law , transfers and disclosures of personally identifiable information may also be made where necessary for the establishment , exercise , or defense of legal claims , to protect the rights and property of Time Inc. , our agents , customers , and others , including to enforce our agreements , policies , and terms of use ; or to protect the personal safety of any person .
-Please note that if Time Inc. or any of its subsidiaries or lines of business is merged , acquired , divested , financed , sold , disposed of or dissolved , including through merger of , consolidation , sale or divestiture of assets , the relevant customer database , including personally identifiable information we may possess about you , may , in whole or in part , be sold , disposed of , transferred , divested , or otherwise disclosed as part of that transaction or proceeding .
-Although we take appropriate measures to safeguard against unauthorized disclosures of information , we can not assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy .
-Inadvertent disclosures may result , for example , when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data .
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property , or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc. , please click here .
-If you prefer not to receive e-mail marketing from this or any other Time Inc. property , or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc. , please click here .
-Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses .
-back to top California 's " Shine the Light " law , Civil Code section 1798.83 , requires certain businesses to respond to requests from California customers asking about the businesses ' practices related to disclosing personal information to third parties for the third parties ' direct marketing purposes .
-Alternately , such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties ' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing .
-( Note : Time Inc. sites do not recognize the do not track signals that some browsers may employ. )  
-As discussed above , if you wish to opt-out of our sharing of your information with third parties for the third parties ' direct marketing purposes offline please click here , or for email please click here .
-To find out more about your opt-out rights , please contact us as described in the " How to Contact Us " section below .
-Some of our sites contain links to other sites whose information practices may be different than ours .
-Time Inc. also allows you to connect with other sites and services in order to share content and information .
-You should consult the other sites ' and services ' privacy notices , as we have no control over information that is submitted to , or collected by , these third parties or their use of your information .
-Time Inc. sites sometimes may offer contests , sweepstakes , promotions , editorial features , or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties .
-By virtue of your participation in such activities or offerings , your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties .
-Time Inc. has no control over the third parties ' use of this information .
-Time Inc. sites may use reputable third parties to present or serve advertisements , including online behavioral advertisements , that you may see on the web pages and to conduct research about the advertisements .
-This privacy notice does not cover any use of information that such third parties may have collected from you ( e.g. , type of browser , operating system , domain name , day and time of visit , page ( s ) visited ) or the methods used by the third-parties to collect that information ( e.g. , cookies , web beacons and clear gifs ) .
-For more information on advertisements and your behavioral advertising options , visit our About Ads page and our Network Advertising Initiatives page .
-To enhance your experience on our Services , we may place " cookies " on your computer or device .
-Cookies are small text files that we place in your computer or device to store your preferences .
-Cookies , by themselves , do not tell us your e-mail address or other personal information unless you choose to provide this information to us by , for example , registering with one of our Services .
-Once you choose to provide us with personal information , this information may be linked to the data stored in the cookie .
-A cookie assigns a unique numerical identifier to your Web browser or device , and may enable us to recognize you as the same user who has used our Services , and relate your use of the Services to other information about you , such as your usage information and personal information .
-We use cookies ( and Local Shared Objects , HTML5 , cache cookies , web beacons , or clear gifs , all described further below ) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in .
-For example , we may use cookies to personalize your experience on our Services ( e.g. , to recognize you by name when you return to our site , to save your password in password-protected areas , to enable shopping carts , or to tailor content or product and service offerings ) .
-Most browsers automatically accept cookies .
-You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser .
-However , you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content .
-However , your viewing of editorial content may be hampered .
-If you wish to block cookies , go to http : //www.allaboutcookies.org/ to find out how , or check your browser.s instructions .
-Local shared objects , such as .Flash cookies,. also may be stored on your computer or device .
-Local shared objects operate a lot like cookies , but can not be managed in the same way .
-Depending on how local shared objects are enabled on your computer or device , you may be able to manage them using software settings .
-For information on managing Flash cookies , for example , see http : //helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html .
-HTML5 , the language some Web sites are coded in , may be used to store information on your computer or device about your Service usage activities .
-This information may be retrieved by us to help us manage our Services , such as by giving us information about how our Services are being used by our visitors , how they can be improved , and to customize them for our users .
-Cache Cookies : Cache cookies , such as eTags , may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past .
-Our websites may also use small pieces of code called " web beacons " or " clear gifs " to collect anonymous and aggregate advertising metrics , such as counting page views , promotion views , or advertising responses .
-A web beacon is an electronic image called a single-pixel or clear GIF .
-Web beacons can recognize certain types of information , such as a user 's cookie number , time and date of a page view , and description of the page where the web beacon is placed .
-These web beacons may be used to deliver cookies that conform to our cookie policy above .
-These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf .
-These technologies enable us to assign a unique number to you , and relate your Service usage information to other information about you , including your personal information .
-We may match information collected from you through different means or at different times , including both personal information and Service usage information , and use such information along with offline and online information obtained from other sources ( including third parties ) such as demographic information and updated contact information ( where that information has been lawfully disclosed to us ) for the purposes of learning more about you so we can provide you with relevant content .
-back to top We have put in place appropriate administrative , technical , and physical safeguards to help prevent unauthorized access , maintain data security and correctly use the information we collect .
-No system can be completely secure , however , and we do not guarantee that unauthorized disclosures and access will not happen .
-We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates .
-We encourage you to review , update , and correct the personal information that we maintain about you , and you may request that we delete personal information about you that is inaccurate , incomplete , or irrelevant for legitimate purposes , or are being processed in a way which infringes any applicable legal requirements , by contacting us as set out in the " How to Contact Us " section below .
-At our election , instead of deleting such information , we may retain it with your comment or correction noted in our records .
-By contacting us , you may also object to our further use of your personal information if you have compelling legitimate grounds ( this may involve closing your account ) .
-We may ask you to verify your identity and to provide other details before we are able to provide you with any information , correct any inaccuracies , or delete any information .
-Your right to review , update , correct , and delete your personal information may be limited , subject to the law or your jurisdiction :
-( i ) if your requests are abusive or unreasonably excessive , ( ii ) where the rights or safety of another person or persons would be encroached upon , or ( iii ) if the information or material you request relates to existing or anticipated legal proceedings between you and us , or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity .
-Your right to review , update , correct and delete your information is subject to our records retention policies and applicable law , including any statutory retention requirements .
-We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws .
-Thereafter , we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity .
-Your rights to request that we delete your personal information are set forth in the " Accessing , Correcting , and Deleting Your Personal Information " section above .
-The site you are visiting is one of the Time Inc. general audience sites and is not intended for use by children .
-For more information about our online privacy practices for children 's sites , consult the privacy notice at the children 's site in which you are interested .
-This Privacy Policy may be changed by Time Inc .
-The revised Privacy Policy will be posted to this page so that you are aware of the information we collect , how we use it , and under what circumstances we may disclose it .
-If you have any questions or concerns about the Time Inc .
-Privacy Notice or its implementation please contact us via email by clicking here or by writing to :  Time Customer Service Attention : Consumer Affairs 3000 University Center Drive Tampa , Florida 33612-6408 http : //sportsillustrated.cnn.com/ back to top
-This Privacy Policy was revised Jan. 2 , 2014 .
-Privacy Policy Effective as of July 1 , 2013 Introduction Collection of Information Use and Disclosure Security User Access and Control Other Important Information Contact Us Fox News Network , LLC
-( " Fox News " or " we " ) wants you to be familiar with how we collect , use and disclose information from and about you .
-This Privacy Policy describes our practices in connection with information collected through services such as websites , mobile sites , applications ( " apps " ) , and widgets ( collectively , the " Fox News Services " ) .
-By using Fox News Services , you agree to the terms and conditions of this Privacy Policy .
-As set forth in our Terms of Use , the Fox News Services are for a general audience , are not targeted to children , and do not knowingly collect personal information from children under 13 years of age .
-This Privacy Policy applies to all users , including both those who use the Fox News Services without being registered with or subscribing to a Fox News Service and those who have registered with or subscribed to a Fox News Service .
-This Privacy Policy applies to Fox News 's collection and use of your personal information ( i.e. , information that identifies a specific person , such as full name or email address ) .
-It also describes generally Fox News 's practices for handling non-personal information ( for example , interests , demographics and services usage ) .
-Fox News and our service providers collect the following information from and about you : Registration Information is the information you submit to register for a Fox News Service , for example , to create an account , post comments , receive a newsletter , or enter a contest or sweepstakes .
-Registration Information may include , for example , name , email address , gender , zip code and birthday .
