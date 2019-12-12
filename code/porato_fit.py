@@ -87,7 +87,7 @@ def get_stats_plot(input_path):
 
 
 def main():
-    input_path = 'data/original'
+    input_path = 'data/sample'
     for file in os.listdir(input_path):
         text_file = f'{input_path}/{file}'
         print(text_file)

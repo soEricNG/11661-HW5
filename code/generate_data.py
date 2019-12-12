@@ -1,5 +1,31 @@
 import os
 import argparse
+import spacy
+
+NUM_SENTENCES_PER_FILE = 2000
+
+
+def generate_train(input_filename, output_path):
+    nlp = spacy.load("en_core_web_sm")
+    filename = os.path.splitext(os.path.basename(input_filename))[0]
+    line = 0
+    file_count = 1
+    f_out = open(f'{output_path}/{filename}_{file_count}', 'w+')
+    with open(input_filename, 'r') as f:
+        data = f.read().replace('\n', '')
+        doc = nlp(data)
+        for sent in list(doc.sents):
+            if len(sent) < 5:
+                continue
+            if line >= NUM_SENTENCES_PER_FILE:
+                f_out.close()
+                line = 0
+                file_count += 1
+                f_out = open(f'{output_path}/{filename}_{file_count}', 'w+')
+            f_out.write(f'{sent.text}\n')
+            line += 1
+        if line >= NUM_SENTENCES_PER_FILE:
+            f_out.close()
 
 
 def eighty_twenty_split(input_filename, output_path):
@@ -23,6 +49,7 @@ def eighty_twenty_split(input_filename, output_path):
 
 
 if __name__ == '__main__':
+    # generate_train('','')
     parser = argparse.ArgumentParser(description='Generate training and test data')
     parser.add_argument('--input_dir', type=str, required=True, help='Input directory')
     parser.add_argument('--output_dir', type=str, required=True, help='Output directory')
@@ -31,9 +58,13 @@ if __name__ == '__main__':
     method = args.method
     input_path = args.input_dir
     for file in os.listdir(input_path):
+        input_filename = f'{input_path}/{file}'
+        output_path = args.output_dir
         if method == 0:  # 80/20 split
-            eighty_twenty_split(f'{input_path}/{file}', args.output_dir)
+            eighty_twenty_split(input_filename, output_path)
         elif method == 1:
             pass
+        elif method == 2:
+            generate_train(input_filename, output_path)
         else:
             raise Exception('Illegal method!')
