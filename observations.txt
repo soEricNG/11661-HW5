@@ -42,4 +42,6 @@ average length of sentence for document11  4.853584138281647
 average length of sentence for document12  3.8003959089409434
 average length of sentence for document13  10.794736842105262
 
-For average length of sentence, the documents 5,8,10 give the lowest score. The document 9 score also seems a little odd.  
+For average length of sentence, the documents 5,8,10 give the lowest score. The document 9 score also seems a little odd.
+
+Pareto fit: the alpha is decreasing from unigram to bigram to trigram
