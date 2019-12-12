@@ -9,17 +9,18 @@ def TTRatio(inputfile,index):
 		for line in fd:
 			lines.append(line)
 			for word in line.split():
-				print(word)
+				#print(word)
 				count+=1
 				if word not in unigramwordcount:
 					unigramwordcount[word]=1
 				else:
 					unigramwordcount[word]+=1
 
-	print(count)
+	#print(count)
 	typecount = len(unigramwordcount.keys())
 	tokencount = sum(unigramwordcount.values())
-	print(tokencount)
+	#print(tokencount)
+	print(typecount)
 
 	TTR = typecount/tokencount
 	print("TTR for Document " + str(index) + ": " + str(TTR))

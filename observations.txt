@@ -43,3 +43,20 @@ average length of sentence for document12  3.8003959089409434
 average length of sentence for document13  10.794736842105262
 
 For average length of sentence, the documents 5,8,10 give the lowest score. The document 9 score also seems a little odd.  
+
+Ratio of perplexity (unigram perplexity/bigram perplexity) for all the 13 files:
+File 1: 8.68167746717319
+File 2: 9.197709922156157
+File 3: 5.073047121765605
+File 4: 3.4566091112181594
+File 5: 245.87806092549465
+File 6: 69.00570511594884
+File 7: 596.1869514007097
+File 8: 223.24931865389135
+File 9: 136.5132263612027
+File 10: 274.11939176580364
+File 11: 2.3268785350031163
+File 12: 3.7439195268001026
+File 13: 21.73854985802411
+
+Files 5 to 10 giving high ratios of perplexities.
