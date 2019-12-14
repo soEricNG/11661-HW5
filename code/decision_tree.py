@@ -1,8 +1,6 @@
 import pandas as pd
 from sklearn import tree
-import graphviz
-from sklearn.externals.six import StringIO
-import pydot
+import matplotlib.pyplot as plt
 
 # METRICS = ['Unigram pareto', 'Bigram pareto', 'Trigram Pareto', 'TTR',
 #            'EOS', 'EOC', 'ALC', 'ALS', 'Perplexity Ratio']
@@ -32,15 +30,15 @@ def read_test_input(input_filepath):
 
 if __name__ == '__main__':
     features, labels = read_train_input('../data/train_data_v3.csv')
-    # print(features)
-    # print(labels)
     clf = tree.DecisionTreeClassifier()
     clf = clf.fit(features, labels)
-    # dot_data = tree.export_graphviz(clf, out_file='tree.dot')
-    # dot_data = StringIO()
-    # tree.export_graphviz(clf, out_file=dot_data)
-    # graph = pydot.graph_from_dot_data(dot_data.getvalue())
-    # graph.write_pdf("iris.pdf")
+
+    # plotting tree
+    plt.figure()
+    tree.plot_tree(clf, filled=True)
+    plt.show()
+
+    # make prediction
     test_features = read_test_input('../data/test_data_v3.csv')
     predictions = clf.predict(test_features)
     for ind, label in enumerate(predictions):
