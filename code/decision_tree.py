@@ -1,8 +1,12 @@
 import pandas as pd
 from sklearn import tree
+import graphviz
+from sklearn.externals.six import StringIO
+import pydot
 
-METRICS = ['Unigram pareto', 'Bigram pareto', 'Trigram Pareto', 'TTR',
-           'EOS', 'EOC', 'ALC', 'ALS', 'Perplexity Ratio']
+# METRICS = ['Unigram pareto', 'Bigram pareto', 'Trigram Pareto', 'TTR',
+#            'EOS', 'EOC', 'ALC', 'ALS', 'Perplexity Ratio']
+METRICS = ['Bigram-Unigram', 'TTR', 'Perplexity Ratio']
 
 
 def read_train_input(input_filepath):
@@ -27,13 +31,18 @@ def read_test_input(input_filepath):
 
 
 if __name__ == '__main__':
-    features, labels = read_train_input('../data/train_data.csv')
+    features, labels = read_train_input('../data/train_data_v3.csv')
     # print(features)
     # print(labels)
     clf = tree.DecisionTreeClassifier()
-    clf.fit(features, labels)
-    test_features = read_test_input('../data/test_data.csv')
+    clf = clf.fit(features, labels)
+    # dot_data = tree.export_graphviz(clf, out_file='tree.dot')
+    # dot_data = StringIO()
+    # tree.export_graphviz(clf, out_file=dot_data)
+    # graph = pydot.graph_from_dot_data(dot_data.getvalue())
+    # graph.write_pdf("iris.pdf")
+    test_features = read_test_input('../data/test_data_v3.csv')
     predictions = clf.predict(test_features)
     for ind, label in enumerate(predictions):
-        print(f'{ind}.txt: {label}')
+        print(f'{ind+1}.txt: {label}')
 
